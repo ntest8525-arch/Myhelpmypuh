@@ -136,6 +136,7 @@ vless://be20cd9a-e72b-46e6-a2a7-8d4c67ad60dc@panel.dibaux.ir:80?path=/stream&sec
 vless://a771f91a-777d-4449-842f-14250d87857d@www.speedtest.net:8080?path=/&security=&encryption=none&host=fin.konkuriran.sbs&type=httpupgrade#Proxy_Se7en
 vless://606beac5-b286-4f39-80b6-8a664e59884b@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20323426
 vless://a1f67377-c5db-4aa0-90a9-fec646ef5e9b@dl1.app20.ir:8080?security=none&amp%3Bencryption=none&amp%3Bhost=play.google.com&amp%3BheaderType=http&amp%3Btype=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40vmesc%20%232
+vmess://eyJhZGQiOiIxMDQuMjEuNjkuNDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwiaWQiOiJuYXNuZXQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmFzbmV0L2NkbiIsInBvcnQiOiI4MDgwIiwicHMiOiJCeSBFYnJhU2hhIPCflIwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.38.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳#@Daily_Configs
 vless://aa5e25fc-c7d7-4e6e-b7f7-105a35c0175a@tamin.ir:80?path=/&security=none&encryption=none&host=tr1.kianorbit.ir&type=httpupgrade#@tanhanet
 vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@global.cloud-play.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@flyv2ray
