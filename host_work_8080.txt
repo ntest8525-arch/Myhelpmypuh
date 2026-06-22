@@ -6,6 +6,7 @@ vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@euro.cloud-play.ir:80?mode=auto&pat
 vless://dca608f0-3365-4723-b132-1f4cf260684a@fastly.videobazi.com:80?mode=auto&path=/&security=&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=Maryshuponlinr.global.ssl.fastly.net&type=xhttp#@meliproxyy
 vless://InternetAzadRobot@fastly.com:80?encryption=none&security=none&type=xhttp&host=sv6tignal.global.ssl.fastly.net&path=/tofan&mode=auto#🇨🇦CA_138_@Surfboardv2ray
 vless://0b952492-2b0f-4eab-831c-6223c652437c@98.159.111.111:80?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://ee01027e-e413-575a-8a5f-ba8ba569eb8b@151.101.0.223:80?path=%2F--%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=tg.ELiV2RaY.ir&fp=qq&type=ws&sni=faculty.ucdavis.edu#US🇺🇸
 vless://7ea0f774-0cb5-4d3b-b158-c251e9699340@de.codesystem.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20195ms
 vless://1f762bc9-f5a4-4906-9b27-a51dc5c1f870@xn-riga.easyodin.ir:80?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20292ms
 vless://f5ed21e1-926c-4a5c-9951-8da239c0d445@pl.codesystem.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🔵@chillguy_vpn
