@@ -8,6 +8,7 @@ vless://Telegram-BLuev2rayng@www.speedtest.net:8080?path=/Telgram%3Fed%3D2048&am
 vless://ce846a9a-cfd2-4086-b484-caf1f6e4503e@www.speedtest.net:80?mode=packet-up&path=/&security=none&encryption=none&host=xn--ciqw7gu0bc2o9kjszc247i.reza-barfi.xyz.&type=xhttp#@iguanaVPN
 vless://c8c0a619-74ad-4365-9ca6-65af13e7739c@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20865088
 vless://16964702-6ee8-42c2-9d32-ac812688a655@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#@filembad
+vless://742882c9-29b0-4b74-a08d-d8f95ace8ccf@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#🇷🇺
 vless://Bia_too_VPNCUSTOMIZE@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=VPNCUSTOMIZE.V2ray.Community.&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40meli_v2rayng%20%232
 vless://dd442fff-2094-4a00-a11b-9dd6ddf2b2af@hentai-cdn.apruxdomain.xyz:80?type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://19f935c2-4c92-4b8a-b024-3e378f396255@zula.ir:80?path=/%40custom_config%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=336125422.ir.www.zula.ir.xn--4all.king4usd.shop.&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40realvpnmaster%20%231
@@ -245,6 +246,7 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.67.215.140:80?encryption=none&ho
 vless://Telegram-HqV2rayNG-HqV2rayNG@ehdifejicej.fars-daxter.ir:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Proxy_Se7en
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.38.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳#@Daily_Configs
 vless://85b62084-d81e-52cd-a016-944f261d34a0@bm.xq-vpn.com:80?mode=auto&path=/&security=&encryption=none&type=xhttp👉🆔freenettir📡🇹🇭®️Thailand©️Huai
+vless://71788e0b-c27f-4dd2-ba78-aa682ba652b6@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#🇷🇺
 vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@199.232.196.193:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#Telegram
 vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?encryption=none&host=panel.dibaux.ir&path=/stream&security=none&type=ws#onnevpn-@onnevpn_bot-5.00TB📊-9D,23H⏳
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lODIiLCJhZGQiOiJUTV9BWkFSQkFZSkFCMS5TRVJWLjkucGFnRVMuREVWIiwicG9ydCI6IjgwIiwiaWQiOiI0M2RjZGNlMS0zY2VhLTQxOTMtYmM4ZC05MGI5MjA3MWQ3NzkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwicGF0aCI6Ii8/QklBX1RFTEVHUkFNQEFaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxLz9kZT0yNTYwIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiODIifQ==
@@ -390,6 +392,7 @@ vless://f101fe5a-0b4f-4aaf-9c17-3b0767740259@185.147.27.105:80?encryption=none&t
 vless://daba0851-b9f6-4ab0-b2e3-7d60a4f8ab1c@global.connectingissues.ir:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=%2F%3Fed%3D2048&mode=auto#🆔madshopx%20🔓%20VL-XHTTP-N/A%20❔%20XX%2014ms
 vmess://eyJhZGQiOiI1MS44My4xOTcuMTQwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjdkOGMyOTA0LTA5MTctNDAwMi1iZmY5LTlhNDRlMWM5MmZiMSIsIm5hbWUiOiLwn4ep8J+HqjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn5qnIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://5854d471-23a6-4c97-a398-95f483f885b0@104.16.7.70:8080?mode=auto&path=/xhttp&security=&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=aziz.carderrr.com.&type=xhttp#Proxy_Se7en
+vless://5d02362c-cda0-4c20-bc76-91f9bcf49fd7@hentai-cdn.apruxdomain.xyz:80?encryption=none&security=none&type=ws&path=/#🇺🇸
 vless://f408696c-cdbe-49a1-90e9-ab602003315c@199.232.169.135:80?path=/MinoVpnCh%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=googleb.net&amp%3Bfp=firefox&amp%3Btype=ws&amp%3Bsni=speedtest.net#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40minovpnch%20%231
 vless://c7ecc306-5e8b-4459-b2d8-3d98d7ae9e0f@local.cloud-play.ir:80?encryption=none&extra={"xPaddingBytes":"100-1000"}&host=connectingissues.pl&mode=auto&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#🔵@chillguy_vpn
 vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:80?mode=auto&path=/&security=none&encryption=none&host=Spd-mynames.global.ssl.fastly.net&type=xhttp#@KAFING_2
