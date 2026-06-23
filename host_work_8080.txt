@@ -294,6 +294,7 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.66.219:80?encryption=none&s
 vmess://eyJhZGQiOiIxNTguNjkuMjA4LjEyMCIsImFpZCI6MCwiaWQiOiJiZWQ2MmVlNS0yYjQyLTQxYjAtYWVhZS1lOTVkMDQzZGE4NjkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDimpTvuI8iLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=/&security=none&type=ws#⛵29@oneclickvpnkeys
 vless://3693ece7-c0d1-4c5c-900c-11866029d183@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20226873
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@45.80.111.208:80?encryption=none&type=ws&security=none&path=/rutube&host=rutube.globaledgenet.com#🇩🇪DE-🚀@VPNine1
 vless://c8c0a619-74ad-4365-9ca6-65af13e7739c@hentai-cdn.apruxdomain.xyz:80?encryption=none&security=none&type=ws&path=/#🇷🇺RU-🚀@VPNine1
 vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJuYXRpb24iOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6IkJ5IEVicmFTaGEg8J+kliIsInNjeSI6ImF1dG8iLCJzZXJ2ZXJQb3J0IjowLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://d07c6648-b644-4736-ade5-9bb4062bf42a@38.107.232.146:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@MTMVPN
