@@ -189,6 +189,7 @@ vless://dca608f0-3365-4723-b132-1f4cf260684a@199.232.78.161:80?mode=auto&path=/&
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 vless://53146906-5cb5-4332-ac19-d4822762b1cd@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&host=shirin-kose.de&type=xhttp#⚡@V2ray_official
 vless://32dffb35-9b53-4b62-8694-a8fa9dc999ed@hentai-cdn.apruxdomain.xyz:80?encryption=none&security=none&type=ws&path=/#🇷🇺RU-🚀@VPNine1
+vmess://eyJhZGQiOiJ0d3JpeWZqaGhoaDEuaGZoZmIuaG9tZXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJhcHAuZGluZ3RhbGsuY29tIiwiaWQiOiIyNzQ0YmM0Ni04YjE5LTQwYTUtOTczMy01YmM4MTlmYTk1NTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkIiwicG9ydCI6IjgwIiwicHMiOiJCeSBFYnJhU2hhIPCfm6HvuI8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://b08d2238-2601-4a79-b1db-c4816574b3d1@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#@filembad
 vless://a771f91a-777d-4449-842f-14250d87857d@www.speedtest.net:8080?path=/&security=&encryption=none&host=fin.konkuriran.sbs&type=httpupgrade#Proxy_Se7en
 vless://b47ed853-826a-47eb-b840-320c07d74c2e@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20312578
