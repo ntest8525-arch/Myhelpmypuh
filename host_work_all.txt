@@ -41,6 +41,7 @@ vless://efcc8f68-3245-43b8-92a9-f1db09ef6662@ez-591b98.nahan908080.workers.dev:8
 vless://0f7013e2-fa67-4978-a6e8-74833a97ebee@speedtest.net:80?mode=auto&path=/&security=&encryption=none&host=khodepi1.global.ssl.fastly.net&type=xhttp#@ReleaseNet
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjUiLCJhZGQiOiIxNDEuMjI3LjE4OC4yMjEiLCJwb3J0IjoiMjA1MyIsImlkIjoiMjliNjgyMDQtNDk1NC00MTMwLWI0NzktYWJkZTA5MWE2ZTExIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMjUifQ==
 vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@188.114.97.6:8080?encryption=none&security=none&type=xhttp&host=aziz.carderrr.com.&path=/xhttp&mode=auto#Tel:
+vmess://eyJhZGQiOiIxODguMTE0Ljk3LjgiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImUzYTQ2NGQ3LWFkNTEtNDJlZS04MDU5LTIyMDE1NDc5N2I1MCIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6MjA4NywicHMiOiJCeSBFYnJhU2hhIPCfqbgiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@icv2ray
 vless://12057eb0-5b11-47ed-b34b-0c8646b99864@104.24.38.200:8080?path=/?ed=2056&security=none&encryption=none&host=xcc.dl5movis.ir&type=httpupgrade#چنل
 vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:80?mode=auto&path=/&security=none&encryption=none&host=Spd-mynames.global.ssl.fastly.net&type=xhttp#@KAFING_2
