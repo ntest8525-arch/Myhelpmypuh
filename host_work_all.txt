@@ -146,6 +146,7 @@ vless://da532d3c-4a98-431d-9270-184e02ef007d@chatgpt.com:8080?path=/eyJqdW5rIjoi
 vless://FREE@45.144.165.11:80?mode=auto&path=%2F&security=&encryption=none&host=SpEeDtEsT.nEt&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20864111
 vless://8937c203-8ec6-477f-830b-939992cba4eb@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#⚜️𝗝𝗼𝗶𝗻
 vless://be7c593b-9fa7-4775-b0ea-313d4a6ca612@global.cloud-play.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@FarazV2ray
+vmess://eyJhZGQiOiIxODguMTE0Ljk3LjgiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImUzYTQ2NGQ3LWFkNTEtNDJlZS04MDU5LTIyMDE1NDc5N2I1MCIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6MjA4NywicHMiOiJCeSBFYnJhU2hhIPCfp78iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
 vless://8c34b923-c537-4e8a-af5e-0c4c168c1179@nl.codesystem.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@FarazV2ray
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca25.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@V2dogs_n
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#@Arvand_soul❤️🧑‍💻
