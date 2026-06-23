@@ -394,6 +394,7 @@ vless://ba6c5ec8-59b1-4b58-ae36-784165ce38fa@hentai-cdn.apruxdomain.xyz:80?type=
 vless://f101fe5a-0b4f-4aaf-9c17-3b0767740259@185.147.27.105:80?encryption=none&type=ws&security=none&path=%2F#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://daba0851-b9f6-4ab0-b2e3-7d60a4f8ab1c@global.connectingissues.ir:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=%2F%3Fed%3D2048&mode=auto#🆔madshopx%20🔓%20VL-XHTTP-N/A%20❔%20XX%2014ms
 vless://5854d471-23a6-4c97-a398-95f483f885b0@104.16.7.70:8080?mode=auto&path=/xhttp&security=&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=aziz.carderrr.com.&type=xhttp#Proxy_Se7en
+vless://5d02362c-cda0-4c20-bc76-91f9bcf49fd7@hentai-cdn.apruxdomain.xyz:80?encryption=none&security=none&type=ws&path=/#🇺🇸
 vless://f408696c-cdbe-49a1-90e9-ab602003315c@199.232.169.135:80?path=/MinoVpnCh%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=googleb.net&amp%3Bfp=firefox&amp%3Btype=ws&amp%3Bsni=speedtest.net#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40minovpnch%20%231
 vless://c7ecc306-5e8b-4459-b2d8-3d98d7ae9e0f@local.cloud-play.ir:80?encryption=none&extra={"xPaddingBytes":"100-1000"}&host=connectingissues.pl&mode=auto&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#🔵@chillguy_vpn
 vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:80?mode=auto&path=/&security=none&encryption=none&host=Spd-mynames.global.ssl.fastly.net&type=xhttp#@KAFING_2
