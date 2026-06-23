@@ -231,6 +231,7 @@ vless://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.97.3:8080?amp%3Btype=ws&amp
 vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?encryption=none&amp%3Bsecurity=none&amp%3Btype=tcp&amp%3BheaderType=none&amp%3Bhost=vixon.portab.org#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40config_proxy%20%231
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3AFR
 vless://FREE@bm.xq-vpn.com:80?mode=auto&path=%2F&security=&encryption=none&host=SpEeDtEsT.nEt&type=xhttp#%3E%3E%40ShadowsocksM%3A%3AXX
+vless://bbd6c2ed-d06f-4459-85aa-78eab06c7415@185.220.226.18:80?security=none&encryption=mlkem768x25519plus.native.0rtt.WLj6_4BxDoxVuAwkiF2CGnm0-gtUOcPebQNZzB9wQE8&headerType=none&type=tcp#🇫🇷
 vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80?path=/containers/fi&security=none&encryption=none&host=pizzabama.global.ssl.fastly.net&type=ws#Telegram
 vless://69330ab9-eb51-4bb6-9c07-3f2401c476af@panel.dibaux.ir:80?encryption=none&host=panel.dibaux.ir&path=/stream&security=none&type=ws#onnevpn-@onnevpn_bot-5.00TB📊-9D,23H⏳
 vless://aa5e25fc-c7d7-4e6e-b7f7-105a35c0175a@tamin.ir:80?path=/&security=none&encryption=none&host=tr1.kianorbit.ir&type=httpupgrade#@tanhanet
