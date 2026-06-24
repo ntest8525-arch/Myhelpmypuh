@@ -86,6 +86,7 @@ vless://41f46aa9-da29-45f6-b33e-50ed736c8646@local.cloud-play.ir:80?mode=auto&pa
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjUiLCJhZGQiOiJoZXU4M3VqaWVpd29ldTgzajJld2plaHV3ZWh1OC5kZW50aXNjYW4uY2EiLCJwb3J0IjoiODAiLCJpZCI6ImUyOTIzYmM2LTgyMDQtNDc2OC05OGVhLTM3OWQ0OGVhOGE3YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImhldTgzdWppZWl3b2V1ODNqMmV3amVodXdlaHU4LmRlbnRpc2Nhbi5jYSIsInBhdGgiOiIvMWF3Tnp4UlN3S3Nka1BWS1AwWlFxbEhqdDEwc3AiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI2NSJ9
 vless://48645a2b-5039-41bf-80b8-0d65eb0ba622@TCP.PASARGUARDSPEED.IR:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20392ms
 vless://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@14.102.228.201:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#@𝐍𝐞𝐱𝐮𝐬_𝐯2𝐫𝐚𝐲♕︎All
+vless://ee01027e-e413-575a-8a5f-ba8ba569eb8b@151.101.0.223:80?path=%2F--%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=tg.ELiV2RaY.ir&fp=qq&type=ws&sni=faculty.ucdavis.edu#US🇺🇸
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.60:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@FarazV2ray
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?encryption=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#@SylphNet
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.12.31.140:80?path=Telegram
