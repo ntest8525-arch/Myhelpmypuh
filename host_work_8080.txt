@@ -172,6 +172,7 @@ vless://718ff826-3d64-441c-b1ec-54a1d7394931@euro.connectingissues.ir:80?mode=au
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@89.116.250.140:80?path=/Telegram🇨🇳+@VPNine1&security=&encryption=none&host=s5.868001.xyz&type=ws#🇱🇹LT-🚀@VPNine1
 vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@euro.cloud-play.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@flyv2ray
 vless://557c5417-8a13-4033-a793-4fed74bbb0a3@pg.restauranzorban.ir:8080?path=/&security=none&encryption=none&host=germany2.restaurantnetwork.ir&type=ws#@Shh_Proxy-New²
+vless://3e2c2cb9-83b3-4b8c-91d5-73015490df0d@speedtest.net:80?path=%2FConfigTell%2CConfigTell%2CConfigTell%3Fed%3D2560&security=none&encryption=none&host=www.Yjc.ir&type=ws#IR🇮🇷
 vless://2dc4a552-50e8-4200-95ee-f79b9a8b40c3@www.gcore.com:80?path=/tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers+tel%3Adeli_servers#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40deli_servers%20%231
 vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@mci.cloud-play.ir:80?mode=auto&path=/&security=&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@TEHRANARGO
 vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@rfvbtghnuyjmikolpqaz.sd.noafra.ir:80?encryption=none&host=play.google.com&type=tcp&headerType=http#🆔freeconfigsplus%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20404ms
