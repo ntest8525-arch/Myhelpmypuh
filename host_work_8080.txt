@@ -248,6 +248,7 @@ vless://85c4c0ce-08ef-493d-96f3-a711a70ec995@172.67.139.85:80?security=none&encr
 vless://4e6bed59-1b49-4198-856d-97916b15e24c@104.17.147.22:80?path=/%40Vpn_Mikey%D8%8C%40Vpn_Mikey&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&amp%3Btype=httpupgrade#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40torang_vpn%20%234
 vless://63ec4dae-1817-4f57-8102-b885d6045847@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#@prrofile_purple
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://7bae942f-03d8-42f1-9de8-259f580b7ea6@zeus-panel-7rtl8g.zeus-uj1cvu.workers.dev:80?path=/&security=none&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#🚀@VPNine1
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.193.29.140:80?path=Telegram
 vless://6cd78ec7-b715-471c-92b4-0c3842caea4b@104.25.118.238:80?type=ws&host=billowing-cloud-d339.sospanel.workers.dev&path=/eyJqdW5rIjoiOFRwTjlPWHgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560#🚀@VPNine1
 vless://ba1c6da5-fa72-45cb-aa35-5dc31674becf@151.101.56.213:80?encryption=none&security=none&type=xhttp&headerType=none&host=privacy.ir&mode=auto&extra={"xPaddingBytes":"100-1000"}#@filembad
