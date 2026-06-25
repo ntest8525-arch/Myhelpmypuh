@@ -263,6 +263,7 @@ vmess://eyJhZGQiOiJkbi50b3JvbnRvbW92aWUuY29tIiwiYWlkIjoiMCIsImlkIjoiM2UyMGE0ZTUt
 vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80?path=/rutube&security=none&encryption=none&host=rutube.globaledgenet.com&type=ws#@Arvand_soul❤️🧑‍💻
 vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.188.140:80?path=/Telegram🇨🇳
+vmess://eyJhZGQiOiJkZTUubmlla290aW4uZGUiLCJob3N0IjoiZGU1Lm5pZWtvdGluLmRlIiwiaWQiOiI4NWJmNTgwMS00NjU4LTQ0MWMtYTJlNS04NDJjNmM3MWE1MjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IkJ5IEVicmFTaGEg4oyo77iPIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJuYXRpb24iOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6IkJ5IEVicmFTaGEg8J+aqCIsInNjeSI6ImF1dG8iLCJzZXJ2ZXJQb3J0IjowLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://d8dabd75-ae26-4c27-993e-75a00ff72185@152.70.72.249:80?type=ws&host=dual.abhizzz.net&path=%2Fvless&fp=chrome#🆔soskeynet%20🔓%20VL-WS-N/A%20🇮🇳%20IN%20210ms
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.162.231.140:80?path=/Telegram+@WangCai2&security=&encryption=none&host=s5.868001.xyz&fp=chrome&type=ws#@Soul737
