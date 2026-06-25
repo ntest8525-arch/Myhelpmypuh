@@ -286,6 +286,7 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80?path=/Telegram🇨�
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#[Kia_Net]
 vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80?path=/rutube&security=none&encryption=none&host=rutube.globaledgenet.com&type=ws#@Arvand_soul❤️🧑‍💻
 vless://9c5ea2a8-150f-45b6-886c-be0d9e90f5d3@f1.iranphlox.ir:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=Fastspeedmar.global.ssl.fastly.net&type=xhttp#🆔ar14n24b%20🔓%20VL-XHTTP-N/A%20❔%20XX%20256ms
+vless://d573cf87-bae9-4c9c-8051-2964273d91d6@free08.tunnely.ru:8080?encryption=none&type=ws&path=/ws/&security=none#🇺🇸US-🚀@VPNine1
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#🇨🇦
 vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@www.speedtest.net:8080?path=/&security=&encryption=none&host=cloud.pedramhost.ir&type=httpupgrade#@filembad
 vless://eca11c16-cf74-4467-9d34-85bd942600a0@78.141.215.62:8080?security=none&encryption=none&headerType=none&type=tcp#@prrofile_purple
