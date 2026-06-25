@@ -19,6 +19,7 @@ vless://db539ec2-a90e-4522-b966-0ba8d8085a99@146.75.119.82:80?type=ws&encryption
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjAiLCJhZGQiOiJubHQucmVhdGEuaXIiLCJwb3J0IjoiMTAyMCIsImlkIjoiNjI0NGM0MWEtZjRjMS00NzMzLWE2NTQtYzM4Zjc3MjliMTNjIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyMCJ9
 vless://e39d2cce-3745-424b-8f01-9bb874f7ff27@www.speedtest.net:80?path=/&security=none&encryption=none&insecure=0&host=ez-f8446a.alibesttop40.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-f8446a.alibesttop40.workers.dev#🇨🇦
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.85.119.140:80?path=/Telegram🇨🇳
+vmess://eyJhZGQiOiIzNy4xMjAuMjM2LjI1MSIsImFpZCI6NjQsImhvc3QiOiJ3d3cuNDIwODgzMjYueHl6IiwiaWQiOiJlZDE2MmRhYS1lZTIwLTQ0ZWQtODMwZi1iNTIyYzUwMTM4N2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xNDMwMTMwOTI0MjUiLCJwb3J0Ijo0NDMsInBzIjoiQnkgRWJyYVNoYSDwn6egIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.33.151:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇺🇸
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@62.72.166.140:80?path=Telegram🇨🇳
 vless://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@now.nexuschat.fun:8080?security=reality&encryption=none&pbk=C8CAcJj1DrSOv9T3tLmzSoimfsC1hpqqVl8QV2wxUzE&headerType=none&fp=chrome&spx=/gxOh3mH3HkEfGfF&type=tcp&sni=aws.amazon.com&sid=3e66066052#@𝐍𝐞𝐱𝐮𝐬_𝐯2𝐫𝐚𝐲♕︎All
