@@ -124,6 +124,7 @@ vless://7f979bbf-9357-44e8-a6ae-80927fbd851d@146.75.119.82:80?encryption=none&se
 vless://1763d3ef-d3eb-4e59-ab3d-aed0ab875321@snapp.ir:8080?path=/ray&security=&encryption=none&host=dwn.budgetnet.ir&type=ws#@icv2ray
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@74.49.214.140:80?path=/Telegram+@WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#@Soul737
 vless://be7c593b-9fa7-4775-b0ea-313d4a6ca612@mci.cloud-play.ir:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=xenoengineer.com&type=xhttp#🆔v2ray1_ng%20🔓%20VL-XHTTP-N/A%20❔%20XX%206ms
+vless://3c52e091-6714-4915-949f-2149fe69951b@V2rAy.SiMsPeEdUp.CoM:80?path=/ws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#@v2rayconfigamir
 vless://SoonTeam@108.162.195.19:8080?mode=auto&path=/@SoonTeam&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=new.new.new.ab841.com&type=xhttp#%@FREE_VPN02
 vmess://eyJhZGQiOiIxNzIuNjcuMTg3LjIxOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWNja2xzai5idWZ1LnVzLmNpIiwiaWQiOiI2NWIxN2MwYi0wYTUyLTRiNTQtOWJjOS02MGUzMTM5N2I4NDEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvNjViMTdjMGItMGE1Mi00YjU0LTliYzktNjBlMzEzOTdiODQxLXZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJCeSBFYnJhU2hhIPCfk5siLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.8.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2🇨🇳#🔵@chillguy_vpn
