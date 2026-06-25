@@ -379,6 +379,7 @@ vless://FREE@bm.xq-vpn.com:80?encryption=none&type=xhttp&mode=auto&host=SpEeDtEs
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.193.29.140:80?path=Telegram
 vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#@EXPRESSVPN_420
 vless://5854d471-23a6-4c97-a398-95f483f885b0@188.114.97.6:8080?mode=auto&path=/xhttp&security=&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=aziz.carderrr.com.&type=xhttp#Proxy_Se7en
+vmess://eyJhZGQiOiIxNDAuODMuNTEuMTYxIiwiYWlkIjowLCJob3N0IjoianAwMi5hMGEueHl6IiwiaWQiOiI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoyNTY4NiwicHMiOiJCeSBFYnJhU2hhIPCfjJAiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
 vless://0b952492-2b0f-4eab-831c-6223c652437c@98.159.111.111:80?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.1.151:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🇨🇦
 vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?encryption=none&amp%3Bsecurity=none&amp%3Btype=tcp&amp%3BheaderType=none&amp%3Bhost=vixon.portab.org#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40config_proxy%20%231
