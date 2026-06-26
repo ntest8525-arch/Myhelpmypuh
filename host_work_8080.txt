@@ -204,6 +204,7 @@ vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@185.143.233.122:80?host=gre.greenta
 vless://12057eb0-5b11-47ed-b34b-0c8646b99864@104.24.38.200:8080?path=/?ed=2056&security=none&encryption=none&host=xcc.dl5movis.ir&type=httpupgrade#چنل
 vless://41f46aa9-da29-45f6-b33e-50ed736c8646@mci.cloud-play.ir:80?mode=auto&path=/&security=&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=simeonelaparo.de&type=xhttp#Proxy_Se7en
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vmess://eyJhZGQiOiI1MS44My4xOTcuMTQwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjdkOGMyOTA0LTA5MTctNDAwMi1iZmY5LTlhNDRlMWM5MmZiMSIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvdjEiLCJwb3J0IjoiODAiLCJwcyI6IkJ5IEVicmFTaGEg8J+boe+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@195.85.59.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20484617
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20781093
 vless://9c5ea2a8-150f-45b6-886c-be0d9e90f5d3@151.101.35.82:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=Maryshuponlinr.global.ssl.fastly.net&type=xhttp#irconfiig
