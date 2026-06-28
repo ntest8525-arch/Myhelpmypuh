@@ -71,6 +71,7 @@ vless://e87e1c73-c09b-4527-962e-172569ce3d68@euro.connectingissues.ir:80?mode=au
 vless://bfe63cc5-412d-4aa7-b04e-75c9d52b5831@www.zula.ir:80?path=/telegram%3DV_2RAYNGVPN&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=FySuMyYk3.aMirsiTesos.sItE.&amp%3Btype=httpupgrade#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v_2rayngvpn%20%232
 vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?encryption=none&type=grpc&mode=gun#@V2ray_confiig
+vmess://eyJhZGQiOiIzNy4xMjAuMjM2LjI1MSIsImFpZCI6NjQsImhvc3QiOiJ3d3cuNDIwODgzMjYueHl6IiwiaWQiOiJlZDE2MmRhYS1lZTIwLTQ0ZWQtODMwZi1iNTIyYzUwMTM4N2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xNDMwMTMwOTI0MjUiLCJwb3J0Ijo0NDMsInBzIjoiQnkgRWJyYVNoYSDwn6aHIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjkiLCJhZGQiOiIxNjguMTE5LjE3NC4yMjkiLCJwb3J0IjoiNDQzIiwiaWQiOiI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNjkifQ==
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.126:8880?mode=gun&security=&encryption=none&type=grpc#@Soul737
 vless://7521b247-9b73-46ab-8bae-341ee17f2efc@185.143.235.201:80?path=/&security=&encryption=none&host=t1i6.niropardaz.ir&type=ws#irconfiig
