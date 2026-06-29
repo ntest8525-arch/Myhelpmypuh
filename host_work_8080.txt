@@ -60,6 +60,7 @@ vless://718ff826-3d64-441c-b1ec-54a1d7394931@euro.connectingissues.ir:80?mode=au
 vless://InternetAzadRobot-AliKiller@151.101.129.57:80?mode=auto&path=/&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#TEL:Father_vpn
 vless://de8f907c-53cc-40da-b9eb-87775b31258e@185.143.233.222:8080?path=/&security=&encryption=none&host=free.tradepal.ir&type=ws#@Leecher56
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjIiLCJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsInBvcnQiOiI4MDgwIiwiaWQiOiI3MmY1YmQ4NS02ZDkyLTQ2NDQtYTFjNC01NDJhOTI4OTZhOGIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHB1cGdyYWRlIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ1cC5kZ2NsaXguaXIiLCJwYXRoIjoiL2N1c3RvbV9jb25maWc/ZWQ9MjU2MCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIyIn0=
+vmess://eyJhZGQiOiIxNTguNjkuMjA4LjEyMCIsImFpZCI6MCwiYWxsb3dJbnNlY3VyZSI6IjAiLCJhbGxvd19pbnNlY3VyZSI6IjAiLCJpZCI6ImJlZDYyZWU1LTJiNDItNDFiMC1hZWFlLWU5NWQwNDNkYTg2OSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvdjEiLCJwb3J0Ijo4MCwicHMiOiJCeSBFYnJhU2hhIPCfp6giLCJzZWN1cml0eSI6ImF1dG8ifQ==
 vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@188.114.97.6:8080?encryption=none&security=none&type=xhttp&host=aziz.carderrr.com.&path=/xhttp&mode=auto#🇨🇦CA_452_@Surfboardv2ray
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&type=ws&note=@FreeOnlineVPN#🇳🇱
