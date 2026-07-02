@@ -52,6 +52,7 @@ vless://17e618e2-c006-4a2c-ae87-d3ec093b2265@178.83.45.135:80?encryption=none&fp
 vless://c6ba83a7-c4b5-481f-8f71-0f17deff0bf2@104.21.44.253:8080?encryption=none&security=none&type=ws&host=billowing-sunset-e340.qaraatayi.workers.dev&path=/eyJqdW5rIjoiOUhPbnRlV0xaekI1cjciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20690544
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@euro.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#@appsooner
 vless://InternetAzadRobot-AliKiller@151.101.129.57:80?mode=auto&path=/&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#TEL:Father_vpn
+vmess://eyJhZGQiOiJkZTQubmlla290aW4uZGUiLCJhaWQiOiIwIiwiaG9zdCI6ImRlNC5uaWVrb3Rpbi5kZSIsImlkIjoiZTlhMmFiOWQtNTg1OC00OWIzLTk3MjEtZDczNjRiNDEzYzQ4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJCeSBFYnJhU2hhIPCfjJEiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@188.114.97.6:8080?encryption=none&security=none&type=xhttp&host=aziz.carderrr.com.&path=/xhttp&mode=auto#🇨🇦CA_452_@Surfboardv2ray
 vless://203fea15-b8f7-46cf-bd6a-a59811589308@199.232.78.159:80?encryption=none&security=none&type=xhttp&host=rostife.global.ssl.fastly.net&path=/&mode=auto#Telegram:
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
