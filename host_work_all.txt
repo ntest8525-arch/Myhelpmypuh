@@ -84,6 +84,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzMiLCJhZGQiOiJUTV9BWkFSQkFZSkFCMS5TRVJWLjku
 vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:80?mode=auto&path=/&security=none&encryption=none&host=Spd-mynames.global.ssl.fastly.net&type=xhttp#@KAFING_2
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@euro.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#@appsooner
 vless://InternetAzadRobot-AliKiller@151.101.129.57:80?mode=auto&path=/&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#TEL:Father_vpn
+vmess://eyJhZGQiOiIxNDkuNy4xNi4yNDgiLCJhaWQiOjAsImhvc3QiOiIxNDkuNy4xNi4yNDgiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQnkgRWJyYVNoYSDimaDvuI8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca22.speedmeter.shop:8880?encryption=none&type=grpc&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://75323b6f-184f-4d00-839d-323b8fc70221@104.16.106.213:8880?&security=none&type=ws&headerType=&host=dry-sunset-f3c4.282.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#@v2rayconfigamir
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.speedmeter.shop:8880?security=&encryption=none&type=grpc#🇮🇹IT-🚀@VPNine1
@@ -204,6 +205,7 @@ vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encr
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzAiLCJhZGQiOiJmci5jb25uZnVsbC5vcmciLCJwb3J0IjoiMjA1MyIsImlkIjoiNTAwZTI5YWEtYzQwYi00M2UxLTkwNWMtZTZlN2FjNGE1YjgzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNzAifQ==
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@MARAMBASHI
 vless://18287f51-6b16-49cd-b09b-484c00e77849@connect.nyxserver.ir:80?path=/arvan-tuel&security=none&encryption=none&host=connect.nyxserver.ir&type=ws#🔵@chillguy_vpn
+vmess://eyJhZGQiOiIxNTcuOTAuMjAuMTgiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiIiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg4pqZ77iPIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?encryption=none&security=none&type=grpc#💙24@NetFlowTools
 vless://954ee007-ed27-42cc-bfa8-7e104a2a4279@dl1.solidnet.fun:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#➊
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTkgNjUuOU1CL3MiLCJhZGQiOiI1Ny4xNTEuMTAwLjI3IiwicG9ydCI6IjEwMDg2IiwiaWQiOiI1NTBlODQwMC1lMjliLTQxZDQtYTcxNi00NDY2NTU0NDAwMDAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1OSJ9
