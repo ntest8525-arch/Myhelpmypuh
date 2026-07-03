@@ -17,6 +17,7 @@ vless://236b0666-8dc5-4f52-976b-c45b36e11072@ping.wargen-alkaline.ir:8080?path=/
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@mci.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#@appsooner
 vless://ae1c12b0-df98-5f76-9adc-bd3380a3dbbd@72.62.211.211:80?encryption=none&host=pay.google.com&path=/telegramSoonTeam&security=none&type=ws#🍓29@oneclickvpnkeys
 vless://1104676b-0e7d-4f80-825f-83e8d7ea77c6@api1.hexogate.net:80?encryption=none&security=none&type=tcp&headerType=http&path=/&host=account.xiaomi.com#🇱🇺LU-🚀@VPNine1
+vless://88220ec1-b10c-4b50-aa03-07b60da9c61d@tun.bytodev.ir:80?encryption=none&type=ws&path=/ws#EPODONIOS
 vmess://eyJhZGQiOiJjZi44Nzc3NzQueHl6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS56dWxhLnVwbGFvZC1tdXNpYy5pci4iLCJpZCI6ImY4OTc1ODcxLWE3YTAtNDkwNi04ODM1LWEyM2MxMjU4Y2ExZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkJ5IEVicmFTaGEg8J+qrCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://07d9731e-353c-40f4-86ae-4d71c534cf34@snapp.ir:80?encryption=none&security=none&type=ws&host=dev.delitech.ir&path=/api/live/v3#@Daily_Configs
 vless://954ee007-ed27-42cc-bfa8-7e104a2a4279@dl1.solidnet.fun:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#➊
