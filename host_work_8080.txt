@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiIxOTIuMC42My4xMTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InN0dWRlbnQuc2Fiei1zaXRlbnRnLW5vYXZhcmFuLmNvbSIsImlkIjoiZjcyODJmOGUtZDBhZS00ZGViLTk1MTQtZWQ0OTlhM2U2ZWFiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaTAxIiwicG9ydCI6IjgwIiwicHMiOiJCeSBFYnJhU2hhIPCfpogiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://203fea15-b8f7-46cf-bd6a-a59811589308@199.232.78.159:80?mode=auto&path=/&security=none&encryption=none&host=rostife.global.ssl.fastly.net&type=xhttp#@FarazV2ray
 vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@199.232.196.193:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#Telegram
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#🇨🇦
