@@ -59,6 +59,7 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.130.219:80?encryption=none&
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@prrofile_purple
 vless://a4609f6a-5a02-44b1-9d35-303608665ee4@SPEEDtest.Net:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&host=hormiz5.global.ssl.fastly.net&type=xhttp#@FarazV2ray
 vless://e7c7bb21-73dd-4fee-8373-862369e86816@s4.eldoradu.ir:8080?security=none&type=httpupgrade&headerType=&path=/?ed=2080&host=xlsf.sellink.ir#EPODONIOS
+vmess://eyJhZGQiOiIxMDQuMjEuNjkuNDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwiaWQiOiJuYXNuZXQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmFzbmV0L2NkbiIsInBvcnQiOiI4MDgwIiwicHMiOiJCeSBFYnJhU2hhIPCfjJAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@191.96.94.50:8080?encryption=none&security=none&type=ws&host=play.google.com&path=/#t.me/ConfigFori
 vless://SoonTeam@72.62.211.211:80?encryption=none&host=pay.google.com&path=/telegramSoonTeam&security=none&type=ws#🇬🇧
 vless://ce846a9a-cfd2-4086-b484-caf1f6e4503e@www.speedtest.net:80?mode=packet-up&path=/&security=none&encryption=none&host=xn--ciqw7gu0bc2o9kjszc247i.reza-barfi.xyz.&type=xhttp#@iguanaVPN
