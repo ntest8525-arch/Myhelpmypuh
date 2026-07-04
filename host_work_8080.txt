@@ -68,6 +68,7 @@ vless://e7c7bb21-73dd-4fee-8373-862369e86816@s4.eldoradu.ir:8080?security=none&t
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGwuc3VtbWVyY2FydC5uZXQiLCJpZCI6IjllN2JkMTYyLWNlMTMtNDkxMi04OTU5LTNiMzI4MDViNDYyZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiQnkgRWJyYVNoYSDwn6SWIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@191.96.94.50:8080?encryption=none&security=none&type=ws&host=play.google.com&path=/#t.me/ConfigFori
 vless://SoonTeam@72.62.211.211:80?encryption=none&host=pay.google.com&path=/telegramSoonTeam&security=none&type=ws#🇬🇧
+vmess://eyJhZGQiOiIxNTguNjkuMjA4LjEyMCIsImFpZCI6MCwiaWQiOiJiZWQ2MmVlNS0yYjQyLTQxYjAtYWVhZS1lOTVkMDQzZGE4NjkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn6W3Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://ce846a9a-cfd2-4086-b484-caf1f6e4503e@www.speedtest.net:80?mode=packet-up&path=/&security=none&encryption=none&host=xn--ciqw7gu0bc2o9kjszc247i.reza-barfi.xyz.&type=xhttp#@iguanaVPN
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.244.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2🇨🇳#🇫🇮FI_228_@Surfboardv2ray
 vless://b4d880b2-c08c-4f49-ba51-9d21d81501db@helixgaming.ir:80?path=/&security=none&encryption=none&host=play.google.com&type=ws#t.me/ConfigFori
