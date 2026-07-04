@@ -64,6 +64,7 @@ vless://a4609f6a-5a02-44b1-9d35-303608665ee4@SPEEDtest.Net:80?mode=auto&path=/&s
 vless://e7c7bb21-73dd-4fee-8373-862369e86816@s4.eldoradu.ir:8080?security=none&type=httpupgrade&headerType=&path=/?ed=2080&host=xlsf.sellink.ir#EPODONIOS
 vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@191.96.94.50:8080?encryption=none&security=none&type=ws&host=play.google.com&path=/#t.me/ConfigFori
 vless://SoonTeam@72.62.211.211:80?encryption=none&host=pay.google.com&path=/telegramSoonTeam&security=none&type=ws#🇬🇧
+vmess://eyJhZGQiOiIxMDQuMjEuNjkuNDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwiaWQiOiJuYXNuZXQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmFzbmV0L2NkbiIsInBvcnQiOiI4MDgwIiwicHMiOiJCeSBFYnJhU2hhIPCfk5siLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://ce846a9a-cfd2-4086-b484-caf1f6e4503e@www.speedtest.net:80?mode=packet-up&path=/&security=none&encryption=none&host=xn--ciqw7gu0bc2o9kjszc247i.reza-barfi.xyz.&type=xhttp#@iguanaVPN
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
