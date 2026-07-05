@@ -56,6 +56,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lODIgMS4wTUIvcyIsImFkZCI6ImJlc3RjZi4wMzAxMDEu
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&host=de.vpnbase.net&path=/http&security=none&type=ws#🪼6@oneclickvpnkeys
 vless://526be552-290f-47b1-9a61-a13da8a0a43b@bmi.ir:80?path=/&security=&encryption=none&host=fi1.kianorbit.ir&type=httpupgrade#@electvpn0
 vless://207b6619-4f27-473a-a4f7-faf1e693ee51@162.19.209.85:80?encryption=none&security=none&type=ws&path=/stream#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20156043
+vmess://eyJhZGQiOiI1MS44My4xOTcuMTQwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjdkOGMyOTA0LTA5MTctNDAwMi1iZmY5LTlhNDRlMWM5MmZiMSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvdjEiLCJwb3J0IjoiODAiLCJwcyI6IkJ5IEVicmFTaGEg8J+QiSIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://SoonTeam@108.162.195.19:8080?mode=auto&path=/@SoonTeam&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=new.new.new.ab841.com&type=xhttp#%@FREE_VPN02
 vless://2c9af5d8-8e1c-40e7-8b6b-c200fc5488e8@199.232.78.159:80?type=xhttp&encryption=none&path=/xhttp&host=kabotar.global.ssl.fastly.net&mode=auto&x_padding_bytes=0&extra={"xPaddingBytes":"0"}&security=none#@ehsawn8
 vless://85b62084-d81e-52cd-a016-944f261d34a0@45.144.165.11:80?mode=auto&path=/&security=none&encryption=none&host=cJ-sPeEdTeSt.EbB.mY&type=xhttp#@hopev2ray
