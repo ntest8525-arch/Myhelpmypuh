@@ -10,6 +10,7 @@ vless://cee8c30c-fb13-4a89-abb4-5a32cf716c97@velorium.store:8080?mode=auto&path=
 vless://80e4b71e-ba87-4de6-9d47-65930d88caa9@geo-1.biscuitnazari.ir:8080?path=/arme&security=none&encryption=none&host=md.biscuitnazari.ir&type=ws#MTMVPN
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#🕊
 vmess://eyJhZGQiOiIxMzUuMTI1LjE1OS4xNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZGU1Lm5pZWtvdGluLmRlIiwiaWQiOiI4NWJmNTgwMS00NjU4LTQ0MWMtYTJlNS04NDJjNmM3MWE1MjEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0Ijo4MCwicHMiOiJCeSBFYnJhU2hhIPCfk4AiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://2f855dea-f4f4-4f82-812e-b075a80e74b3@gr2.sepahanatlas.ir:8080?path=/&security=none&encryption=none&type=ws#EPODONIOS
 vless://564150f0-c0ad-46d1-8cf1-71e1900322e8@170.114.46.6:8080?encryption=none&type=ws&host=pphfree3.mvpnpvpn.de5.net&path=%2Fmvpnpph2026&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%AD
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjUgMS4wTUIvcyIsImFkZCI6IjEzMi4xNDUuODAuMjMwIiwicG9ydCI6IjgwIiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjI1In0=
 vless://66ea0b4c-8c39-4e8b-92f0-0a9065218d37@151.101.193.54:80?security=none&type=ws&headerType=&path=&host=BankMelat.glObal.ssl.faStly.nEt.#🇺🇸US-🚀@VPNine1
