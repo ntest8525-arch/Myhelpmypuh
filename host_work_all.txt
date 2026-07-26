@@ -42,6 +42,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMzIDEuNk1CL3MiLCJhZGQiOiIyMTYuMTA2LjE4My4zNSIsInBv
 vless://905d0e1f-4067-4a30-9c05-c64352faea62@162.159.48.193:8880?encryption=none&type=ws&host=divine-mode-93ad.46-54e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://312b0699-a47a-496e-97b6-cb3af1654d35@toy-people.com:8880?path=/%3Fed%3D2048&security=none&encryption=none&host=918.hebav63406.workers.dev&type=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40proxy_confiingir%20%231%20%5Bfast%5D
 vless://6de01a10-c3f0-4560-9a9e-f1e8728bcbfa@www.speedtest.net:80?path=/?ed=2560&security=&encryption=none&host=s767.googleecosystem.com&type=ws#🚀@VPNine1
+vmess://eyJhZGQiOiIxMTguMTA3LjQ2LjE3MyIsImFpZCI6NjQsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzA4MDcxMjM0MjMxMCIsInBvcnQiOjQ0MywicHMiOiJCeSBFYnJhU2hhIPCfkZEiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
 vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/category/music&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#@KAFING_2
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.17:10000?encryption=none#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
 vless://d1eeb74f-e5ea-45eb-9934-5376bfeb5ba4@104.17.21.32:8880?encryption=none&type=ws&host=fragrant-shape-07a0.269-144.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
