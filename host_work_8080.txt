@@ -148,6 +148,7 @@ vless://a929df55-4a5e-4eb6-a29b-7f5665294470@146.75.119.82:80?type=ws&encryption
 vless://b8b65abb-c32d-45e5-b485-be473aaeba31@167.82.0.1:80?encryption=none&type=ws&host=BankMelat.glObal.ssl.faStly.nEt.#@M4Dvpn
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?path=%2Fvless%2F&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#%3E%3E%40configV2rayNG%3A%3ANL
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=/#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40config_proxy%20%232%20%5Bfast%5D
+vless://telegram-id-PcV2ray@speedtest.net:80?path=/telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry,telegram-PcV2ry?ed=80&security=none&encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&host=edoh1.ir&type=ws#EPODONIOS
 vless://080fad7c-ff4b-499f-ab5d-52d69ea5745a@185.207.197.12:80?path=/pyip=Telegram🇨🇳+@WangCai2&security=none&encryption=none&host=calm-tree-22b0.215-d2a.workers.dev&type=ws#@hex_proxy
 vless://46445435-11cd-47e8-87dc-1acc159fc360@167.82.0.1:80?security=none&type=ws&host=BankMelat.glObal.ssl.faStly.nEt.#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20310991
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=&encryption=none&type=ws#🚀t.me/iProxyChannel
