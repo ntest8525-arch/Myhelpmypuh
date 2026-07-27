@@ -16,6 +16,7 @@ vless://e2d69ba7-dbce-442d-b5d7-c07f7944f7e0@167.82.101.159:80?encryption=none&s
 vless://e2d69ba7-dbce-442d-b5d7-c07f7944f7e0@speedtest.net:80?encryption=none&security=none&type=xhttp&headerType=none&path=/&host=erfanyosyour-name.global.ssl.fastly.net&mode=auto#EPODONIOS
 vless://InternetAzadRobot@151.101.1.57:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=tignaltofan.global.ssl.fastly.net&type=xhttp#@brayirani
 vless://75cc1701-4abf-406d-b2fb-6ef5d840b8c6@cn2.k44lawm.ir:8080?security=reality&encryption=none&pbk=YiTSRYtl4fSP1SJpLbpJE83TR_bTVfBkh9IUqvrjGXw&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=1ee54e39fc1a78a1#@bored_vpn
+vmess://eyJhZGQiOiJkZTQubmlla290aW4uZGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlNC5uaWVrb3Rpbi5kZSIsImlkIjoiMzhlZDVkNzAtNDQzZS00YWMzLWI4NzctZWEyMWQ5N2ZlZDkzIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJCeSBFYnJhU2hhIOKalO+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@167.82.0.1:80?security=none&type=ws&path=/&host=BankMelat.glObal.ssl.faStly.nEt.&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20765259
 vless://0f5b9091-d2ff-4999-8588-65d1e9a194c6@104.16.81.119:8080?encryption=none&security=none&type=xhttp&headerType=none&path=/dashboard&host=erfan.mmadvip8563.ir&mode=auto&extra={"xPaddingBytes":"100-1000"}#Unblocked_ir
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#TEL;Father_vpn
@@ -121,6 +122,7 @@ vless://f17956cd-59cf-4b65-904e-d2714695a217@151.101.130.219:80?security=none&ty
 vless://0d957cf0-4671-425a-807e-7a21472220d4@vot.paydar.site:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@TGRVPN
 vless://59eefc04-b831-45cf-8d68-63ca23381171@premium-us-az-01-hostinger.efgwf.online:8080?type=ws&host=premium-us-az-01-hostinger.efgwf.online&path=/ws-hTopcF3L#🇺🇸
 vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
+vmess://eyJhZGQiOiIxNTguNjkuMjA4LjEyMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiZWQ2MmVlNS0yYjQyLTQxYjAtYWVhZS1lOTVkMDQzZGE4NjkiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxIiwicG9ydCI6IjgwIiwicHMiOiJCeSBFYnJhU2hhIOKbk++4jyIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?path=%2Fvless%2F&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#%3E%3E%40configV2rayNG%3A%3ANL
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=/#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40config_proxy%20%232%20%5Bfast%5D
 vless://cfde0aba-0985-4034-ab92-50b1534b126c@151.101.56.7:80?encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&path=/&security=none&type=ws#⛲35@oneclickvpnkeys
