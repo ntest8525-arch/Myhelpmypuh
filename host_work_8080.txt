@@ -116,6 +116,7 @@ vless://1641a422-2dff-45a5-846f-75ff8422b1dd@188.114.97.6:8080?mode=auto&path=/d
 vmess://eyJhZGQiOiIxMDQuMjEuNjkuNDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwiaWQiOiJuYXNuZXQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmFzbmV0L2NkbiIsInBvcnQiOiI4MDgwIiwicHMiOiJCeSBFYnJhU2hhIPCfp6giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@151.101.193.54:80?path=/&security=&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#🚀t.me/iProxyChannel
 vless://ccdd1c00-219c-43ba-b7e2-fc6d2fdf4ebb@65.109.167.134:80?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#@M4Dvpn
+vless://b8b65abb-c32d-45e5-b485-be473aaeba31@167.82.0.1:80?encryption=none&type=ws&host=BankMelat.glObal.ssl.faStly.nEt.#🆔configfa%20🔓%20VL-WS-N/A%20🇺🇸%20US%206ms
 vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.80:80?security=none&type=ws&path=/?Telegram-WangCai2🇨🇳&host=BankMelat.glObal.ssl.faStly.nEt#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20769864
 vless://InternetAzadRobot-AliKiller@151.101.129.57:80?mode=auto&path=/&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#TEL:Father_vpn
 vless://c32c0a52-8dad-44b9-a376-0a9fad55e1fe@151.101.193.54:80?encryption=none&type=ws&host=BankMelat.glObal.ssl.faStly.nEt.&packetEncoding=xudp#•
