@@ -28,6 +28,7 @@ vless://42d7b7fd-0612-4dbb-884b-894ff8a37a04@146.75.119.82:80?type=ws&encryption
 vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@151.101.193.54:80?encryption=none&fp=chrome&host=BankMelat.glObal.ssl.faStly.nEt.&path=%2F&type=ws#%E7%BE%8E%E5%9B%BD+Fastly%E5%85%A8%E7%90%83Anycast%E8%8A%82%E7%82%B9
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://45643c5f-ffc2-46f3-b82c-329aea9962d4@server10.sotowoy673.workers.dev:8080?encryption=none&type=ws&host=server10.sotowoy673.workers.dev&path=/eyJqdW5rIjoiQkRZWDhCN01sIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://5e950790-bf2e-463c-bea5-2e3dcb0cc1d8@57.129.41.216:80?security=none&type=ws&path=/vless/#EPODONIOS
 vless://a69d5300-8101-47b5-9448-6730f228af37@167.82.0.17:80?security=&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#@M4Dvpn
 vless://27cb0bdc-0bfb-47a9-8eb5-27f5ffa074d2@66.235.200.87:8080?security=none&type=httpupgrade&host=join-to.vmessorg.Community.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080#@v2ray_configs_pools-join-us-on-Telegram
 vless://e2c5f1a9-b3d4-4e78-9f2a-1c3d4e5f6a7b@104.16.72.162:80?path=%2F&security=&encryption=none&host=new-scale42-cdn.sabzi.name.ng.&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
