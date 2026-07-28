@@ -6,6 +6,8 @@ vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:8
 vless://qeshmserver@151.101.3.8:80?type=xhttp&mode=auto&host=qeshmserverfree.global.ssl.fastly.net&security=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40qeshmserver%20%231%20%5Bfast%5D
 vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?mode=auto&path=/xhttp&security=none&encryption=none&extra={"xPaddingBytes":"0"}&host=kabotar.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
 vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40free4allvpn%20%231%20%5Bfast%5D
+vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.64:80?security=none&type=ws&path=/?Telegram-WangCai2🇨🇳&host=BankMelat.glObal.ssl.faStly.nEt#🇫🇷
+vless://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80?security=none&type=ws&path=/shalana&host=shalana.xyz&encryption=none#🇺🇸
 vless://80e4b71e-ba87-4de6-9d47-65930d88caa9@geo-1.biscuitnazari.ir:8080?path=/arme&security=none&encryption=none&host=md.biscuitnazari.ir&type=ws#MTMVPN
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#🕊
 vless://514bc33d-a62d-4f36-ba1a-8fc846e6c5be@104.21.20.148:80?security=none&type=httpupgrade&host=FySuMyYk3.aMirsiTesos.sItE.&path=/#@Hope_Net-join-us-on-Telegram
