@@ -69,6 +69,7 @@ vless://bd134ebe-650c-4bd6-a208-2463b226adb2@104.17.147.22:80?path=/@Vpn_Mikey،
 vless://e7b178da-65e8-45ad-8550-de40eb0a7835@162.159.62.1:80?path=/&security=none&encryption=none&host=sahanwickramasinghevip.shop&type=ws#@M4Dvpn
 vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@151.101.194.120:80?encryption=none&security=none&type=xhttp&host=lowtechdevelopersltd.co.uk&path=/video?ed=1024&mode=auto#🇨🇦125822
 vless://59eefc04-b831-45cf-8d68-63ca23381171@172.67.69.63:8080?security=none&type=ws&path=/ws-hTopcF3L&host=premium-us-az-01-hostinger.efgwf.online#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20503553
+vmess://eyJhZGQiOiIxMDQuMjEuNjkuNDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwiaWQiOiJuYXNuZXQiLCJpbnNlY3VyZSI6IjAiLCJuYW1lIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgREQ2REZFIiwibmV0Ijoid3MiLCJwYXRoIjoiL25hc25ldC9jZG4iLCJwb3J0Ijo4MDgwLCJwcyI6IkJ5IEVicmFTaGEg8J+puCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://Tel-HqV2rayNG-HqV2rayNG@hqhqhq.trmas-qo.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#کانفیگ
 vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.241:80?path=/?Telegram-WangCai2🇨🇳&security=none&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt&type=ws#Tel-@ProxyMtAlpha🎊
 vless://e912f8d6-f59a-48b1-b5ad-bbe548d7ebf3@Animall-Zooke.fardaty.ir:8080?mode=packet-up&path=/&security=reality&encryption=none&pbk=bkj8m8COBtgcxZZ0ankB6vbxWRwnnreXjDTZA5CUVB0&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=4da5c8a61cc588e8#@Ap_Ir6
