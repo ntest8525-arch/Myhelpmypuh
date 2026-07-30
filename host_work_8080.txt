@@ -140,6 +140,7 @@ vmess://eyJhZGQiOiJkZTQubmlla290aW4uZGUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 vless://59eefc04-b831-45cf-8d68-63ca23381171@premium-us-az-01-hostinger.efgwf.online:8080?type=ws&host=premium-us-az-01-hostinger.efgwf.online&path=/ws-hTopcF3L#🇺🇸
 vless://85910cfd-95aa-49f5-b156-558d3db7fcdc@tro.plytob.ir:8080?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#[7566]
 vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
+vless://50414e45-4c5f-5a45-5553-85ee715d2d5c@film-irani.ir:8080?path=/stream/PANEL_ZEUS/85ee715d2d5c?loc=2&security=none&encryption=none&host=z-e-u-s-panel-xo62lz.noralisepehr.workers.dev&fp=chrome&type=ws&sni=z-e-u-s-panel-xo62lz.noralisepehr.workers.dev#EPODONIOS
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?path=%2Fvless%2F&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#%3E%3E%40configV2rayNG%3A%3ANL
 vless://fcf3f42a-1b88-e1b1-968f-c5ad00000000@104.21.38.57:80?path=/sync&security=&encryption=none&host=delicate-cell-a4e1.ir-comx1.workers.dev&type=ws#🚀t.me/iProxyChannel
 vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=/#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40config_proxy%20%232%20%5Bfast%5D
