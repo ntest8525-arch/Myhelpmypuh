@@ -1,3 +1,4 @@
+vless://41ceab8f-fa26-4561-bd00-0ab94cf45a4e@pi.paydar.site:80?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#EPODONIOS
 vless://InternetAzadRobot@151.101.1.57:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=tignaltofan.global.ssl.fastly.net&type=xhttp#EPODONIOS
 vless://efe18f67-927b-d4b3-9113-079007af6013@199.232.78.159:80?security=none&type=xhttp&headerType=none&encryption=none&path=&host=bsl.global.ssl.fastly.net&mode=auto#EPODONIOS
