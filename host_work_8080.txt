@@ -169,6 +169,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTgiLCJhZGQiOiJmYXN0bHkuY29tIiwicG9ydCI6Ijgw
 vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?mode=auto&path=/xhttp&security=none&encryption=none&extra={"xPaddingBytes":"0"}&host=kabotar.global.ssl.fastly.net&type=xhttp#EPODONIOS
 vmess://eyJhZGQiOiIxNjIuMTU5LjEzNC4yMyIsImFpZCI6MCwiaG9zdCI6ImNoYW1waW9uc2hpcC1iaWRkaW5nLW94eWdlbi1icm9jaHVyZS50cnljbG91ZGZsYXJlLmNvbSIsImlkIjoiOWIxOTZiNTAtMzdmMi00ZjRiLWIxNzUtMDYyNzNhZGM2MjA3IiwibmV0Ijoid3MiLCJwYXRoIjoiOWIxOTZiNTAtMzdmMi00ZjRiLWIxNzUtMDYyNzNhZGM2MjA3LXZtIiwicG9ydCI6ODA4MCwicHMiOiJCeSBFYnJhU2hhIPCfpJYiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidiI6IjIifQ==
 vless://4ea312d7-3844-4ff8-8062-ed2e03ddc2a1@151.101.66.133:80?path=/ws&security=none&encryption=none&host=scp-only.ws.com&type=ws#EPODONIOS
+vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@151.101.193.54:80?security=none&type=ws&path=/&host=BankMelat.glObal.ssl.faStly.nEt.&encryption=none#🏳️
 vless://e2c5f1a9-b3d4-4e78-9f2a-1c3d4e5f6a7b@45.130.125.114:80?path=%2F&security=none&encryption=none&host=new-scale46-cdn.sabzi.name.ng.&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://cef2e5c6-23d6-415a-ac38-8d96e10b9053@connect.nyxserver.ir:80?path=/arvan-tuel&security=none&encryption=none&host=connect.nyxserver.ir&type=ws#EPODONIOS
 vless://ee01027e-e413-575a-8a5f-ba8ba569eb8b@151.101.0.223:80?path=%2F--%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=tg.ELiV2RaY.ir&fp=qq&type=ws&sni=faculty.ucdavis.edu#US🇺🇸
