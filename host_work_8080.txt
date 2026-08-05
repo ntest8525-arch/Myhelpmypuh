@@ -168,6 +168,7 @@ vless://Telegramjoin:TurboConfigs@176.65.151.74:80?security=none&encryption=none
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://InternetAzadRobot@151.101.1.57:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=tignaltofan.global.ssl.fastly.net&type=xhttp#@brayirani
 vless://59eefc04-b831-45cf-8d68-63ca23381171@172.67.69.63:8080?security=none&type=ws&path=/ws-hTopcF3L&host=premium-us-az-01-hostinger.efgwf.online#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20196191
+vless://59eefc04-b831-45cf-8d68-63ca23381171@104.26.1.195:8080?security=none&type=ws&path=/ws-hTopcF3L&host=premium-us-az-01-hostinger.efgwf.online#🇺🇸
 vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@104.24.218.13:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#Tel:
 vless://2cdddac1-9a7c-4726-a176-74586c0db6eb@snapp.ir:80?path=/vnet102MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray?ed=2048&security=none&encryption=none&host=d4.gsm10shop.com&type=ws#[13813]
 vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/category/music&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#@KAFING_2
