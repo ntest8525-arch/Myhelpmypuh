@@ -21,6 +21,7 @@ vmess://eyJhZGQiOiIxNTEuMTAxLjIuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none#@Evay_vpn
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vmess://eyJhZGQiOiJkbi50b3JvbnRvbW92aWUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImRjOTQxYzMxLWRmZjMtNGI3Zi04OGVkLTY0YjkxMzljYmFjMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiODA4MCIsInBzIjoiQnkgRWJyYVNoYSDwn6egIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+vless://78eddd19-4fd4-461e-ad75-efd8cd44e0d0@fn.cloud--vpn.site:80?encryption=none&type=ws&host=playstationisp.com#🆔v2ray_vpn_ir%20🔓%20VL-WS-N/A%20❔%20XX%20131ms
 vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.24.172.153:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch:
 vless://c9c7a2b1-caf7-4adb-a184-1f55573ecba0@snapp.ir:80?path=/&security=none&encryption=none&host=cactos.cactuscloud.ir&type=ws#@v2rayngzendegimamad🕊️
 vless://4e0f4e59-3613-4f0c-b824-7348413d20e6@premium-us-ca-01-gthost.efgwf.online:8080?type=ws&host=premium-us-ca-01-gthost.efgwf.online&path=%2Fws-6Tta3kYF#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
