@@ -66,6 +66,7 @@ vless://b334d1aa-aa87-4802-ac8a-d739378e658d@146.75.119.82:80?type=ws&encryption
 vless://738eda43-8a98-462c-9b23-41bd4fadc260@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#@v2rayng3
 vless://efe18f67-927b-d4b3-9113-079007af6013@167.82.99.147:80?security=none&type=xhttp&headerType=none&encryption=none&path=&host=finpash.global.ssl.fastly.net&mode=auto#рҹҮ©рҹҮӘ
 vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#@EXPRESSVPN_420
+vless://a3fe488a-d97f-46c0-a845-8247a19b3e82@SPEEDTEST.NET:80?path=/&security=&encryption=none&host=SvnTeamChannel.global.ssl.fastly.net&type=ws#EPODONIOS
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none#@Evay_vpn
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOSIsImFkZCI6InQudGVsZXdlYmlvbi5pci52YXJ6ZXNoMy5jb20uZGUiLCJwb3J0IjoiODAiLCJpZCI6IjMwNWI5NTYzLTkyNTktNDUyOC04MWEwLTc4MmM3MjQxOGY5MyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0Ijoic3RhdHVzLnBsYXkuZ29vZ2xlLmNvbSIsInBhdGgiOiIvZjliR2JHN1pOeTVMMHRkUXBVYkxYSEhJQWxHdiIsInRscyI6IiIsInNuaSI6InN0YXR1cy5wbGF5Lmdvb2dsZS5jb20iLCJ0ZXN0X25hbWUiOiI5In0=
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#рҹҳӣCh:
