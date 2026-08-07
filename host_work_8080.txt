@@ -111,6 +111,7 @@ vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&ty
 vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?mode=auto&path=/xhttp&security=none&encryption=none&extra={"xPaddingBytes":"0"}&host=kabotar.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
 vless://2877414f-d5bc-4bcf-8d82-470d92594504@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#@v2rayng3
 vless://009971be-4e68-421a-94b5-32e806eef2ef@104.17.108.65:8080?mode=auto&path=/sav533?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes":
+vless://90a967ab-8896-4084-bc1d-26edbed71dc1@SPEEDTEST.NET:80?path=/&security=none&encryption=none&host=SvnTeamChannel.global.ssl.fastly.net&type=ws#EPODONIOS
 vless://2c9af5d8-8e1c-40e7-8b6b-c200fc5488e8@199.232.78.159:80?type=xhttp&encryption=none&path=/xhttp&host=kabotar.global.ssl.fastly.net&mode=auto&x_padding_bytes=0&extra={"xPaddingBytes":"0"}&security=none#@ehsawn8
 vless://c009b9eb-1cd9-4df8-92d2-4aafe17ac136@151.101.3.8:80?path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=barkatc2.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40manstervpn%20%231%20%5Bfast%5D
 vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?encryption=none&security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=/?ed=2560#😟Ch:
