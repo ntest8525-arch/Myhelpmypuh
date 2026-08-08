@@ -176,6 +176,7 @@ vmess://ewogICAgImFkZCI6ICIxMzAuNjEuMjUzLjExMSIsCiAgICAiYWlkIjogMSwKICAgICJob3N0
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&type=ws&note=@FreeOnlineVPN#🇳🇱
 vless://cef2e5c6-23d6-415a-ac38-8d96e10b9053@connect.nyxserver.ir:80?path=/arvan-tuel&security=none&encryption=none&host=connect.nyxserver.ir&type=ws#@tanhanet
 vless://33b3cbba-e6ac-485a-9481-976a2945eab9@172.67.185.171:80?security=none&type=ws&host=FlAT-niGHt-f3f9.JiWoXo6991.WorkeRS.dev#🇨🇦137008
+vless://6fc9a744-93de-4db5-dee4-372b8356410e@185.143.233.5:8080?security=none&type=ws&host=htesjtrsu.com&path=/@VPNine1,
 vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.24.140.39:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#🥸Tel:
 vless://InternetAzadRobot-AliKiller@151.101.129.57:80?mode=auto&path=/&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#TEL:Father_vpn
 vless://Tel-HqV2rayNG-HqV2rayNG@hqhqhq.trmas-qo.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#کانفیگ
