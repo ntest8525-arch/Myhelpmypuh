@@ -148,6 +148,7 @@ vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.16.144.131:80?encryption=none&s
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=/vless/&security=none&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.53:8080?encryption=none&type=ws&path=%2F%3Fed&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://94b0cde3-a305-4d89-a192-575339220c7f@104.24.91.178:80?encryption=none&security=none&type=ws&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=/?ed=2560#🔴⚪️🔵Ch:
+vmess://eyJhZGQiOiJkZTQubmlla290aW4uZGUiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiJkZTQubmlla290aW4uZGUiLCJpZCI6ImU5YTJhYjlkLTU4NTgtNDliMy05NzIxLWQ3MzY0YjQxM2M0OCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOjgwLCJwcyI6IkJ5IEVicmFTaGEg4oyo77iPIiwic2N5IjpudWxsLCJzbmkiOm51bGwsInRscyI6Im5vbmUiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==
 vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.16.25.21:80?encryption=none&security=none&type=ws&host=round-truth-4e97-ppal03.vegasow726.workers.dev&path=/?ed=2560#🇺🇸Ch:
 vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.24.85.213:80?encryption=none&security=none&type=ws&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=/?ed=2560#😛Tel:
 vless://a4f963d4-a5c5-4189-8b4d-d7b8b8ab05f8@snapp.ir:8080?path=/&security=none&encryption=none&host=duster.star2feri.ir&type=ws#@v2rayng3
