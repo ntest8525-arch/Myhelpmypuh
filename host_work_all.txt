@@ -129,6 +129,7 @@ vless://f5573e3a-959f-4793-baae-d2d5b61da553@snapp.ir:80?path=/&security=none&en
 vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?mode=auto&path=/xhttp&security=none&encryption=none&extra={"xPaddingBytes":"0"}&host=kabotar.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
 vless://973b0f5b-602b-4ab5-8411-ac7879b0e9d3@cd3.postshup.ir:8880?path=/?ed=2082&security=none&encryption=none&host=nnnnnnnn.postshup.ir&type=httpupgrade#@prrofile_purple
+vmess://eyJhZGQiOiIxNDkuNy4xNi4yNDgiLCJhaWQiOjAsImhvc3QiOiIxNDkuNy4xNi4yNDgiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQnkgRWJyYVNoYSDwn6qWIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
 vless://2877414f-d5bc-4bcf-8d82-470d92594504@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#@v2rayng3
 vless://009971be-4e68-421a-94b5-32e806eef2ef@104.17.108.65:8080?mode=auto&path=/sav533?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes":
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTM3IiwiYWRkIjoiZG4udG9yb250b21vdmllLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJkYzk0MWMzMS1kZmYzLTRiN2YtODhlZC02NGI5MTM5Y2JhYzIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMzcifQ==
