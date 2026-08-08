@@ -156,6 +156,7 @@ vmess://eyJhZGQiOiIxNjIuMTU5LjEzMC4yMDgiLCJhaWQiOjAsImhvc3QiOiJ3aWRlc2NyZWVuLWlu
 vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.24.85.213:80?encryption=none&security=none&type=ws&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=/?ed=2560#😛Tel:
 vmess://eyJhZGQiOiJkbi50b3JvbnRvbW92aWUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImRjOTQxYzMxLWRmZjMtNGI3Zi04OGVkLTY0YjkxMzljYmFjMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiODA4MCIsInBzIjoiQnkgRWJyYVNoYSDwn5ObIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 vless://a4f963d4-a5c5-4189-8b4d-d7b8b8ab05f8@snapp.ir:8080?path=/&security=none&encryption=none&host=duster.star2feri.ir&type=ws#@v2rayng3
+vless://b54cdb1e-7664-4f13-b1b6-a07c8f6560db@SPEEDTEST.NET:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=ws&headerType=none&path=/&host=SvnTeamChannel.global.ssl.fastly.net#EPODONIOS
 vless://b06bdaac-ca63-4dd9-bcf3-a621ab44e46e@digipay.ir:80?path=/&security=none&encryption=none&host=asd.pixserver.ir&type=ws#@v2rayng3
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch:
 vless://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80?security=none&type=ws&path=/shalana&host=shalana.xyz&encryption=none#%3E%3E%40v2nodes%3A%3ASG
