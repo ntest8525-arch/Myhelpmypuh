@@ -10,6 +10,7 @@ vless://Telegram-VPNCUSTOMIZE-@151.101.1.6:80?path=/%40VPNCUSTOMIZE-----%40VPNCU
 vless://20cf8a2b-e301-4240-9c03-20883249a287@104.24.198.111:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560#
 vless://71d85ba3-c15f-4024-f30f-ce3ce3b71a81@151.101.2.219:80?security=none&type=ws&host=softgameriovlioebs69.ir&path=/lw?ed=2048#@Hope_Net-join-us-on-Telegram
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=de.vpnbase.net&path=/http&security=none&type=ws#🧬14@SHAHSERVER1
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?type=ws&encryption=none&path=/vless/&host=OV-Italy1.09vpn.com&fp=chrome&alpn=http/1.1&headerType=none#EPODONIOS
 vmess://ewogICAgImFkZCI6ICIxMDQuMjEuODkuMTgxIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYWNja2xzai5idWZ1LnVzLmNpIiwKICAgICJpZCI6ICI2NWIxN2MwYi0wYTUyLTRiNTQtOWJjOS02MGUzMTM5N2I4NDEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvNjViMTdjMGItMGE1Mi00YjU0LTliYzktNjBlMzEzOTdiODQxLXZtZXNzIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS44OS4xODEtMTk0NSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vless://75db7870-a22f-4d51-cdd1-5e4c6e7cc169@151.101.194.219:80?security=none&type=ws&host=softgameriovlioebs69.ir#@v2ray_configs_pools-join-us-on-Telegram
 vless://b3353fe8-aada-4911-851b-e5c9fb954569@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#@v2rayng3
