@@ -54,6 +54,7 @@ vless://3a38b35b-7b31-452c-954f-99c2f45dda19@172.66.170.53:8880?encryption=none&
 vless://888193f6-6818-42f4-b223-64c9fd323b76@forallpanel.srtongston.ir:8880?encryption=none&type=httpupgrade&path=/?ed=2082&host=Crxx.francee1.postshup.ir#@meliproxyy
 vless://9adb120c-0cce-4b56-9023-ccf7f1e13536@icook.tw:8880?encryption=none&host=spring-sunset-81e8.322.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=/vless/&security=none&type=ws#🧬47@SHAHSERVER1
+vmess://eyJhZGQiOiIyMC43MmltZy54eXoiLCJhaWQiOjAsImhvc3QiOiIyMC43MmltZy54eXoiLCJpZCI6IjgxZDkzZjYyLTE1YTItNDk5NC1hZGI5LTBiNWQ5MDZhYWM3ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiQnkgRWJyYVNoYSDwn6eyIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
 vless://efe18f67-927b-d4b3-9113-079007af6013@167.82.99.147:80?security=none&type=xhttp&headerType=none&encryption=none&path=&host=finpash.global.ssl.fastly.net&mode=auto#🇩🇪
 vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?flow=xtls-rprx-vision&fp=chrome&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&security=tls&sni=download.nvidia.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://f3d7ebbc-03a1-40f9-a911-ae8628d3927a@104.18.34.245:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&encryption=none&host=dawn-waterfall-6052.360-001.workers.dev&type=ws#@meliproxyy
