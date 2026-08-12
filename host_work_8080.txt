@@ -56,6 +56,7 @@ vless://58c1b245-2ea0-40b9-b512-bd2bbe3cbe3f@209.94.90.4:80?encryption=none&host
 vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.45.6:80?security=none&type=ws&path=%2Fdula&host=speed.dulacloud.store&sni=speed.dulacloud.store#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#@EXPRESSVPN_420
 vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?security=none&type=ws&path=%2Fdula&host=speed.dulacloud.store&sni=speed.dulacloud.store#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://59eefc04-b831-45cf-8d68-63ca23381171@premium-us-az-01-hostinger.efgwf.online:8080?type=ws&host=premium-us-az-01-hostinger.efgwf.online&path=/ws-hTopcF3L#EPODONIOS
 vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.16.172.173:80?encryption=none&security=none&type=ws&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=/?ed=2560#🐋Tel:
 vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@172.64.92.243:80?encryption=none&security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=/?ed=2560#🔥Ch:
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none#@Evay_vpn
