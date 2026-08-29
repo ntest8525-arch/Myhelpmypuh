@@ -10,6 +10,7 @@ vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.16.144.131:80?encryption=none&s
 vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.188.158:8080?path=%2F%3Fed&security=none&encryption=none&type=ws#EPODONIOS
 vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@171.244.142.193:8080?path=/v-ws&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
 vless://a3875c94-e968-404c-b62d-5a292d20e6d8@104.16.171.121:80?encryption=none&security=none&type=ws&host=polished-limit-deb9-ppal03.latopi8673.workers.dev&path=/?ed=2560#EPODONIOS
+vless://65e294c6-9733-40cd-ade4-9bcf4017a1bd@cysecy12.global.ssl.fastly.net:80?encryption=none&security=none&type=ws&path=/#🇺🇸
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTA1IiwiYWRkIjoiY29ubmVjdG8yLmtvbG1hbi5jb20uZGUiLCJwb3J0IjoiODA4MCIsImlkIjoiNTE5MDgxM2UtMzVlMS00NWRjLWI5MTUtMTg5YWI0YmY0NmJmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwdXBncmFkZSIsInR5cGUiOiItLS0iLCJob3N0IjoiY2Q1LmFzb3BhcmRhei5pciIsInBhdGgiOiIvZjliR2JHN1pOeTVMMHR6WEtaTnhTWDRxIiwidGxzIjoiIiwic25pIjoiY2Q1LmFzb3BhcmRhei5pciIsInRlc3RfbmFtZSI6IjEwNSJ9
 vless://989f3b5d-705e-4c75-99bd-b41be4d146cd@www.visa.com:8080?path=%2F%3Fed%3D2560&security=none&encryption=none&host=0103.x8r4itwg.workers.dev&type=ws#RELAY🚩
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=/vless/&security=&encryption=none&host=ov-italy1.09vpn.com&type=ws&sni=OV-Italy1.09vpn.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
@@ -25,6 +26,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzIiLCJhZGQiOiJjb25uZWN0bzEua29sbWFuLmNvbS5k
 vmess://ewogICAgImFkZCI6ICI1MS4xNS4xOS4yMDYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImQ4ZDhiNmMwLTJlYzYtMTFlZS1iODM2LTIwNWM2ZDVmNWQ3OCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9WMlJheXlOR3ZwbiIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7Pwn4exTkwtNTEuMTUuMTkuMjA2LTcxMjgiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@104.16.38.60:80?encryption=none&security=none&type=ws&host=hidden-river-df80-ppal03.bewome9099.workers.dev&path=/?ed=2560#EPODONIOS
 vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.190.63:8080?encryption=none&security=none&type=ws&path=/?ed=2048#🇩🇪All²
+vless://65e294c6-9733-40cd-ade4-9bcf4017a1bd@cysecy1.global.ssl.fastly.net:80?encryption=none&security=none&type=ws&path=/#🇺🇸
 vless://16adb454-50e3-4c1c-b516-7ee0493b1889@151.101.158.204:80?encryption=none&security=none&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D64#US🇺🇸
 vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?&type=ws&headerType=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&path=%2F#🇮🇷[openproxylist.com]
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTUiLCJhZGQiOiIxNTEuMTAxLjE5My41NyIsInBvcnQiOiI4MCIsImlkIjoiYjdkYWUyMTEtNzQ3Mi00OGJmLTk5NmMtNTdkNjUzOGQxZWY0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiRGJkamhpdzcyZWJzdTI3MmhzNTE5ai5jb20iLCJwYXRoIjoid3MvP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxNSJ9
