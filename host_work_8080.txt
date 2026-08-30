@@ -67,6 +67,7 @@ vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.16.214.14:80?encryption=none&se
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch:
 vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@104.24.218.13:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#Tel:
 vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?path=/&security=none&encryption=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&type=ws#EPODONIOS
+vless://4ee7a384-4312-4dcb-8043-2ae51a15252d@mtn.v2plus.ovh:80?security=none&type=ws&path=/yEehdR6POSWwzRXP&host=worker3.wateci1156.workers.dev&packetEncoding=xudp&sni=worker3.wateci1156.workers.dev#EPODONIOS
 vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.16.172.173:80?encryption=none&security=none&type=ws&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=/?ed=2560#🐋Tel:
 vless://c164613c-ab89-4b34-a1d7-d526fadcd5b6@172.67.173.224:8080?path=/play&security=none&encryption=mlkem768x25519plus.native.0rtt.xv7sk1D2Us-JXkjuqIRno-kcLA8kqeKy6seL9gXGB2M&host=de-11.th3store.ir&type=httpupgrade#@v2ray313
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.52.6:8080?security=none&type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
