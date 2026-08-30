@@ -110,6 +110,7 @@ vless://3e7bb66e-d7c6-4711-aa05-e4ab0ec58c6d@188.114.97.6:8080?host=shrill-cell-
 vless://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.24.247.189:80?encryption=none&security=none&type=ws&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=/?ed=2560#EPODONIOS
 vless://4ee7a384-4312-4dcb-8043-2ae51a15252d@208.103.161.33:80?security=none&type=ws&path=/yEehdR6POSWwzRXP&host=worker3.wateci1156.workers.dev&packetEncoding=xudp&sni=worker3.wateci1156.workers.dev#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20823288
 vless://94b0cde3-a305-4d89-a192-575339220c7f@104.24.91.178:80?encryption=none&security=none&type=ws&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=/?ed=2560#🔴⚪️🔵Ch:
+vless://45643c5f-ffc2-46f3-b82c-329aea9962d4@server10.sotowoy673.workers.dev:8080?path=/eyJqdW5rIjoiQkRZWDhCN01sIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560&security=none&encryption=none&host=server10.sotowoy673.workers.dev&type=ws#🇺🇸
 vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@151.101.41.194:80?mode=auto&path=/&security=none&encryption=none&host=Spd-mynames.global.ssl.fastly.net&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20277787
 vless://11af1c47-865a-47c6-92ff-118013655d78@51.158.227.14:8080?security=none&type=ws&path=%2F&fp=chrome#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 vless://Tel-HqV2rayNG-HqV2rayNG@hqhqhq.trmas-qo.ir:80?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#کانفیگ
