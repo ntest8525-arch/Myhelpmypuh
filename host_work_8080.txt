@@ -221,6 +221,7 @@ vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.24.167.96:80?encryption=none&se
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.39.218:8080?allowInsecure=1&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/?ed=2560security=tls#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20319918
 vless://e2c6905e-46ec-434b-8400-0bc5bf0363e6@212.87.199.79:8080?path=/v-ws&security=none&encryption=none&host=tr.cdn.doctor-alan.ir&type=ws#EPODONIOS
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.43.187:80?security=none&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#CA
+vless://11af1c47-865a-47c6-92ff-118013655d78@51.158.238.49:8080?&type=ws&headerType=none&path=/?ed=2048#EPODONIOS
 vless://fc588d4d-f2d1-4e15-8f4a-c6e7e9293ffc@www.speedtest.net:80?encryption=none&headerType=none&type=ws&path=/@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On&host=ok-config-10.4zkaban.xyz#EPODONIOS
 vless://ba693ecf-0bd2-465b-9c92-4777a8ca2349@188.114.96.2:8080?encryption=none&type=httpupgrade&path=/&host=xn--xnspeedtest.net.dbsll.ir.#🇩🇪@VEGAAS_VPN
 vless://7d90f043-ed7f-40c9-ac2f-352987904958@57.129.41.216:80?security=none&type=ws&path=/vless/&host=OV-Germany1.09vpn.com&encryption=none#DE
