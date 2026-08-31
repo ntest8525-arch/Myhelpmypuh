@@ -162,6 +162,7 @@ vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.24.52.41:80?encryption=none&sec
 vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@104.24.87.230:80?encryption=none&security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=/?ed=2560#🔥Ch:
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#EPODONIOS
 vless://94b0cde3-a305-4d89-a192-575339220c7f@104.16.233.169:80?encryption=none&security=none&type=ws&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=/?ed=2560#🔴⚪️🔵Ch:
+vless://a57223c7-3581-4fec-9bc4-ad5c30900efb@support.zoom.us:80?security=none&type=ws&path=/free-server.techsonic.dev&host=free-server.techsonic.dev#🇺🇸
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.0.53:80?allowInsecure=1&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/?ed=2560security=tls#🇺🇸
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?encryption=none&security=none&type=ws&host=de.vpnbase.net&path=/http#EPODONIOS
 vless://800f0976-b44f-4122-8486-e1f0e42b8283@104.17.122.8:8080?security=none&sni=zitel.digikala-aparat-zula.com&type=ws&host=zitel.digikala-aparat-zula.com&path=%2Fadmin&fp=random&alpn=h2%2Chttp%2F1.1#RELAY🚩
