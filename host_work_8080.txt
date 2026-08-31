@@ -147,6 +147,7 @@ vless://c164613c-ab89-4b34-a1d7-d526fadcd5b6@www.speedtest.net:8080?path=/play&s
 vless://850563d4-d5e2-4672-b2e1-ceaa69ff62f2@104.24.52.41:80?encryption=none&security=none&type=ws&host=aged-leaf-04aa-ppal03.midosib237.workers.dev&path=/?ed=2560#EPODONIOS
 vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@104.24.87.230:80?encryption=none&security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=/?ed=2560#🔥Ch:
 vless://392ed37c-c0cd-472e-8765-a94677005b0b@188.114.97.6:8080?host=frosty-bread-788f.398.workers.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=none&type=ws#CA
+vless://92929b0d-a473-4ea2-bba5-f651ea263872@91.107.244.55:8080?type=tcp&encryption=none#🆔freeconfigsplus%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20135ms
 vmess://eyJhZGQiOiIxOC4yMzguMTA5LjE3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkN3B1NW16cjljNGIwLmNsb3VkZnJvbnQubmV0IiwiaWQiOiJhMTUwZDU1NC1lOTYyLTQ2MzItODI5Zi1lZTU4M2FkYTNmOTUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaHR1biIsInBjcyI6IiIsInBvcnQiOjgwLCJwcyI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IDY3NkQyOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ==
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#EPODONIOS
 vless://800f0976-b44f-4122-8486-e1f0e42b8283@104.17.122.8:8080?security=none&sni=zitel.digikala-aparat-zula.com&type=ws&host=zitel.digikala-aparat-zula.com&path=%2Fadmin&fp=random&alpn=h2%2Chttp%2F1.1#RELAY🚩
