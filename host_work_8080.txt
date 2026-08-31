@@ -159,6 +159,7 @@ vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.24.131:80?security=none&typ
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?type=ws&encryption=none&host=akamaized.net&path=/vless/#🏳️
 vmess://eyJhZGQiOiIxOC4yMzguMTA5LjE3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkN3B1NW16cjljNGIwLmNsb3VkZnJvbnQubmV0IiwiaWQiOiJhMTUwZDU1NC1lOTYyLTQ2MzItODI5Zi1lZTU4M2FkYTNmOTUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaHR1biIsInBjcyI6IiIsInBvcnQiOjgwLCJwcyI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IDY3NkQyOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ==
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#EPODONIOS
+vless://92929b0d-a473-4ea2-bba5-f651ea263872@91.107.244.55:8080?type=tcp&encryption=none#🆔freeconfigsplus%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20135ms
 vless://a57223c7-3581-4fec-9bc4-ad5c30900efb@support.zoom.us:80?security=none&type=ws&path=/free-server.techsonic.dev&host=free-server.techsonic.dev#🇺🇸
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.0.53:80?allowInsecure=1&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/?ed=2560security=tls#🇺🇸
 vless://800f0976-b44f-4122-8486-e1f0e42b8283@104.17.122.8:8080?security=none&sni=zitel.digikala-aparat-zula.com&type=ws&host=zitel.digikala-aparat-zula.com&path=%2Fadmin&fp=random&alpn=h2%2Chttp%2F1.1#RELAY🚩
