@@ -283,5 +283,6 @@ vless://fc588d4d-f2d1-4e15-8f4a-c6e7e9293ffc@www.speedtest.net:80?encryption=non
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNiIsImFkZCI6IjE4NS4xNDMuMjMyLjE3OCIsInBvcnQiOiI4MDgwIiwiaWQiOiJmZDI2MDEyYi1lNDNiLTRkNmYtODE0Zi1jMmMwNThlMGQyZWIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJjZG4udHIub25lLm5lbWF2YS5jb20iLCJwYXRoIjoiL3MyQlNwUDZ1VU9QUTQ5OXBocFlIODdUc1hsIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNiJ9
 vless://8937c203-8ec6-477f-830b-939992cba4eb@mci.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#EPODONIOS
 vless://f47c506e-9b4a-41ce-a07c-ef084c16468c@199.232.78.159:80?mode=auto&path=/xhttp&security=none&encryption=none&extra={"xPaddingBytes":"0"}&host=kabotar.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
+vless://cae8fae3-6866-487c-8a71-75ea32884097@helixgaming.ir:80?path=/&security=none&encryption=none&host=play.google.com&type=ws#EPODONIOS
 vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:80?mode=auto&path=/&security=none&encryption=none&host=Spd-mynames.global.ssl.fastly.net&type=xhttp#@KAFING_2
 vless://392ed37c-c0cd-472e-8765-a94677005b0b@188.114.97.6:8080?host=frosty-bread-788f.398.workers.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net&security=none&type=ws#CA
