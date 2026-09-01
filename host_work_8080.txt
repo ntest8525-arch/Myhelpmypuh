@@ -164,6 +164,7 @@ vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.24.131:8080?security=none&t
 vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.16.25.21:80?encryption=none&security=none&type=ws&host=round-truth-4e97-ppal03.vegasow726.workers.dev&path=/?ed=2560#EPODONIOS
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.67.161.1:8080?path=/%3Fed%3D2048&security=none&encryption=none&host=workerr.hashdiler.workers.dev&type=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40novinology%20%233%20%5Bfast%5D
 vless://e6109c60-6076-4718-b324-7144e52a48be@up-ir.mycarservhpdd10.ir:80?path=/edge-load5&security=none&encryption=mlkem768x25519plus.native.0rtt.LtSw6pqN24W0M09PVtr5pDSPutKpjthqxShW9aGgjxo&host=edge-load5.mycarservhpdd10.ir&type=ws#EPODONIOS
+vless://f07b0239-d5a4-42c4-b5a8-fc64902ebe5c@185.218.139.222:8080?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=KKuA4eyhlE6PtHejltulCvKvC5TYgm8PfA38PqRhe3A&fp=chrome&spx=/cefc3baab87c115&type=xhttp&sni=www.intel.com&sid=799f7f490be9#EPODONIOS
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.24.248.85:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#EPODONIOS
 vless://497ca0e4-b2e4-40d8-a039-e51314bb5dd0@199.232.78.150:80?path=/&security=none&encryption=none&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws#@v2ray_phoenix
 vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.24.140.39:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#🥸Tel:
