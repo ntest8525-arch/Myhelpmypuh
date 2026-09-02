@@ -582,6 +582,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDQiLCJhZGQiOiIxNzIuNjYuNDQuOTciLCJwb3J0Ijoi
 vless://8991a496-1baa-486f-9948-ffe44e68c072@162.159.156.214:8880?host=soft-band-8da6.426.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws#CA
 vless://7121d0be-40f5-4eda-b3d1-1556e71ea4fa@www.baipiao.eu.org:8880?&security=none&type=ws&headerType=&host=shrill-recipe-0c1d.404-a1d.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#CA
 vless://92a4cb10-228f-4239-8c63-c566b20a9167@104.16.100.66:8880?&security=none&type=ws&headerType=&host=square-waterfall-c1de.199-82d.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#CA
+vmess://ewogICAgImFkZCI6ICI0Ny4yNTAuNDUuMjM0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI4MDAzOWI0ZC1iYWMwLTRmODktODJjNy01NGZhZDNiMGExZWEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwKICAgICJwb3J0IjogODYxMywKICAgICJwcyI6ICLwn4ey8J+Hvk1ZLTQ3LjI1MC40NS4yMzQtNDc1OCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vless://2b5753cf-4d0a-4746-b63d-cd67a3de2ccc@104.21.56.202:8880?security=none&type=ws&host=crimson-hill-8061.166-dcf.workers.dev#CA
 vless://f7ebef03-3c34-4769-bfe4-66e3c92ed665@104.21.12.116:8880?security=none&type=ws&host=lively-dream-d892.262.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#CA
 vless://7b8ff2bf-29c0-4a4f-8925-9f9ef6e486f5@104.24.152.211:8880?encryption=none&type=ws&host=long-math-be5a.233-98b.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#CA
