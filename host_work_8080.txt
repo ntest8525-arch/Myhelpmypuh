@@ -106,6 +106,7 @@ vless://392ed37c-c0cd-472e-8765-a94677005b0b@188.114.97.6:8080?security=none&typ
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@188.114.97.6:8080?path=/&security=none&encryption=none&host=bitter-shadow-4fc5.alvlirm852.workers.dev&type=ws#EPODONIOS
 vless://737678dc-cc15-4643-85a4-ca9359df1aa4@188.114.97.6:8080?host=patient-moon-c61f.ggfsa55.workers.dev&path=%2F&security=none&type=ws#CA
 vless://c61ac406-6661-4f55-a731-fd48f4c03079@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#EPODONIOS
+vless://4ee7a384-4312-4dcb-8043-2ae51a15252d@mtn.v2plus.ovh:80?security=none&type=ws&path=/yEehdR6POSWwzRXP&host=worker3.wateci1156.workers.dev&packetEncoding=xudp&sni=worker3.wateci1156.workers.dev#EPODONIOS
 vless://95de071f-747c-dc07-36ac-5c0854a9e50e@172.67.148.26:80?encryption=none&type=ws&host=restless-boat-ebf2.moha102030.workers.dev&path=%2Fsync&security=none#CA
 vless://b6894804-ae5d-463c-9e4a-3619776c1098@vips.irhubby.ir:8080?encryption=none&type=ws&path=/&host=vips.irhubby.ir#EPODONIOS
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.52.6:8080?security=none&type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
