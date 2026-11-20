@@ -42,6 +42,7 @@ vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@188.114.97.6:8080?encryption=none&h
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTEwIiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOiI4MCIsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjExMCJ9
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform117.golnamakcert.top:80?encryption=none&host=platform117.halalkhor.info&path=/platform117&security=none&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://3e2c2cb9-83b3-4b8c-91d5-73015490df0d@speedtest.net:80?path=%2FConfigTell%2CConfigTell%2CConfigTell%3Fed%3D2560&security=none&encryption=none&host=www.Yjc.ir&type=ws#IR🇮🇷
+vless://9ce32242-557a-4d18-864d-c9c385b3dfa4@support.zoom.us:80?encryption=none&security=none&type=ws&host=matrix.learnpodedu.com&path=/#🇺🇸220269
 vless://ee01027e-e413-575a-8a5f-ba8ba569eb8b@151.101.128.223:80?security=none&sni=faculty.ucdavis.edu&type=ws&host=tg.ELiV2RaY.ir&path=%2F--%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY%3Fed%3D2560&fp=qq#US🇺🇸
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.24.248.85:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch:
 vless://e73df646-1f62-41bf-8c50-653497d603d0@SC-TheNetherlands2.09vpn.com:80?path=/vless/&security=none&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#@appsooner
@@ -138,6 +139,7 @@ vless://fc588d4d-f2d1-4e15-8f4a-c6e7e9293ffc@www.speedtest.net:80?encryption=non
 vless://921515e7-ea51-4aa5-a33f-77044e254281@ao7ntq71fb04.dop72.com:8080?headerType=http&host=newde2.setmedia.ir&type=tcp&encryption=none&security=none#@VPsave
 vmess://ewogICAgImFkZCI6ICIxODUuMTQzLjIzMy4xMTQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIxODUuMTQzLjIzMy4xMTQiLAogICAgImlkIjogImNmN2YyZDdjLWQ0ZjgtNDY5YS1iZmQ1LTk3NDg0YmI5OGQyYyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+Ht0lSLTE4NS4xNDMuMjMzLjExNC0xNTIwIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20480739
+vless://a0c67593-d17f-45d9-a1e6-0b29529d04f0@zibanabz.jonsonvip.ir:8080?encryption=mlkem768x25519plus.native.0rtt._fFH4skXICMnTh4JT8Z-opz_fEPLVLD1w2NW3PN7tgQ&security=none&type=tcp&headerType=none#کانفیگ
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?path=Telegram%3A%40S%E2%80%A6%3C/div%3E#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40msv2raynp%20%232%20%5Bfast%5D
 vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.24.167.96:80?encryption=none&security=none&type=ws&host=round-truth-4e97-ppal03.vegasow726.workers.dev&path=/?ed=2560#🇺🇸Ch:
 vless://InternetAzadRobot-AliKiller@151.101.129.57:80?mode=auto&path=/&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#TEL:Father_vpn
