@@ -148,6 +148,7 @@ vless://fc588d4d-f2d1-4e15-8f4a-c6e7e9293ffc@www.speedtest.net:80?encryption=non
 vless://921515e7-ea51-4aa5-a33f-77044e254281@ao7ntq71fb04.dop72.com:8080?headerType=http&host=newde2.setmedia.ir&type=tcp&encryption=none&security=none#@VPsave
 vless://c762af05-2e92-4133-bc30-8cf45dd40a28@leviko-fr5882.shopingggg.ir:80?type=ws&encryption=none&security=none&host=suh.cryptofront.uk#GB
 vmess://ewogICAgImFkZCI6ICIxODUuMTQzLjIzMy4xMTQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIxODUuMTQzLjIzMy4xMTQiLAogICAgImlkIjogImNmN2YyZDdjLWQ0ZjgtNDY5YS1iZmQ1LTk3NDg0YmI5OGQyYyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+Ht0lSLTE4NS4xNDMuMjMzLjExNC0xNTIwIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+vless://a0c67593-d17f-45d9-a1e6-0b29529d04f0@zibanabz.jonsonvip.ir:8080?encryption=mlkem768x25519plus.native.0rtt._fFH4skXICMnTh4JT8Z-opz_fEPLVLD1w2NW3PN7tgQ&security=none&type=tcp&headerType=none#کانفیگ
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?path=Telegram%3A%40S%E2%80%A6%3C/div%3E#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40msv2raynp%20%232%20%5Bfast%5D
 vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.24.167.96:80?encryption=none&security=none&type=ws&host=round-truth-4e97-ppal03.vegasow726.workers.dev&path=/?ed=2560#🇺🇸Ch:
 vless://InternetAzadRobot-AliKiller@151.101.129.57:80?mode=auto&path=/&security=none&encryption=none&host=InternetAzadRobot55yy182.global.ssl.fastly.net&type=xhttp#TEL:Father_vpn
