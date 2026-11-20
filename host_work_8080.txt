@@ -20,6 +20,7 @@ vless://bd9ff08b-d042-3650-48e4-c4b400000000@188.114.97.6:8080?encryption=none&h
 vless://8f9b3f34-b7e5-48cc-96d3-91ae26a8973f@151.101.66.133:80?security=none&sni=live.skornorth.com&type=ws&host=meldszina.net&fp=chrome&alpn=h2%2Chttp%2F1.1#US🇺🇸
 vless://4212034d-c18b-4060-b218-4f8372e5473a@188.114.97.6:8080?encryption=none&host=summer-hill-7f65.275-521.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://989f3b5d-705e-4c75-99bd-b41be4d146cd@www.visa.com:8080?path=%2F%3Fed%3D2560&security=none&encryption=none&host=0103.x8r4itwg.workers.dev&type=ws#RELAY🚩
+vless://329c4c9a-f3c4-44b7-806e-e92c3b8793b0@zibanabz.jonsonvip.ir:8080?encryption=mlkem768x25519plus.native.0rtt._fFH4skXICMnTh4JT8Z-opz_fEPLVLD1w2NW3PN7tgQ&security=none&type=tcp&headerType=none#کانفیگ
 vless://94b0cde3-a305-4d89-a192-575339220c7f@104.24.91.178:80?encryption=none&security=none&type=ws&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=/?ed=2560#🔴⚪️🔵Ch:
 vless://9a2ae733-250c-447f-9ef3-ab9c7bd97999@77.90.10.180:8080?path=/b4920d9c064cfe38c0021723&security=reality&encryption=none&extra={"mode":
 vless://2f5b111e-a2e9-412e-b882-01765aaf6a6d@inexall.cloudvipgamefall.ir:8080?security=tls&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=newnexip1.nexvpnfun.com#@V2ray_confiig
