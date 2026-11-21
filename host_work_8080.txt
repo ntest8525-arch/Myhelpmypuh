@@ -115,6 +115,7 @@ vmess://eyJhZGQiOiIxODUuMTQzLjIzNC4xMjAiLCJhaWQiOiIwIiwiaG9zdCI6Imtvb2NoZWhwYXMu
 vless://e0d272b8-60df-5447-8009-ba324a09beff@185.146.173.98:80?security=none&type=ws&host=Uk2.vless.site.&path=%2Fvless#GB🇬🇧
 vless://734ae593-2b89-4461-8336-7551552ff926@theatlantic.com:80?path=%2FTELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM---PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#IR🇮🇷
 vless://--DIGiV2RAY---@185.146.173.59:80?path=/Digiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
+vless://b1ea01b5-2902-4ff6-a64d-fafd20aea9f1@opa.gmax12.ir:80?encryption=mlkem768x25519plus.xorpub.0rtt.LsZcpRAWlPNoSYLF2IEn7Tx5uto_LfMrZtYJT5HAmAc&security=none&type=tcp&headerType=http&host=tgju.org&path=/api/v1/stream#Channel
 vmess://eyJhZGQiOiIxMDQuMjEuNjkuNDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwiaWQiOiJuYXNuZXQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmFzbmV0L2NkbiIsInBvcnQiOiI4MDgwIiwicHMiOiJAVmlwX1NlY3VyaXR5IGpvaW4gdXMgLSAxMjVcbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://dc580147-c87c-4527-bf90-192eb1cf62d1@104.17.148.22:8080?security=none&type=ws&host=sTarT.sITEg52770.wORkERs.dEV&path=%2FfvMIBp4Wa6zFAkDU%2FMC4wLjAuMA%3D%3D%3Fed%3D2560#RELAY🚩
 vless://a3875c94-e968-404c-b62d-5a292d20e6d8@104.16.171.121:80?encryption=none&security=none&type=ws&host=polished-limit-deb9-ppal03.latopi8673.workers.dev&path=/?ed=2560#💟Tel:
