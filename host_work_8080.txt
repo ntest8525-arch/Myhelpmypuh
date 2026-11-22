@@ -69,6 +69,7 @@ vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&
 vless://51e031fc-2145-45b8-9d0d-304d8288fc8e@195.216.168.74:8080?security=&encryption=mlkem768x25519plus.native.0rtt._qY-brAcMXtzprRGmtNR-3jlCCnlvdg7Lg-v4pbGFE0&host=digikala.com&headerType=http&type=tcp#Telegram
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@154.12.49.239:80?security=none&type=ws&path=/platform103#US
 vless://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.24.247.189:80?encryption=none&security=none&type=ws&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=/?ed=2560#👁Ch:
+vless://7024c3e5-caae-4743-9a77-727fe558db29@zibanabz.jonsonvip.ir:8080?encryption=mlkem768x25519plus.native.0rtt._fFH4skXICMnTh4JT8Z-opz_fEPLVLD1w2NW3PN7tgQ&security=none&type=tcp&headerType=none#کانفیگ
 vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@172.64.86.167:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#Tel:
 vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?encryption=none&host=nahan-core.netizo09.workers.dev&path=%2Fsync&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20321526
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?security=none&type=ws&path=/vless/&host=akamaized.net&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
