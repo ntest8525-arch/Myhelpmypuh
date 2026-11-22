@@ -50,6 +50,7 @@ vmess://ewogICAgImFkZCI6ICIxMThlam9iLmlyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAi
 vless://1c942ed7-fef9-45c6-9873-91f93075185d@xhtt2.nimbaha9.ir:80?encryption=none&host=xhtt2.nimbaha9.ir&path=/weqe&security=none&type=ws#@filembad
 vless://3e2c2cb9-83b3-4b8c-91d5-73015490df0d@speedtest.net:80?path=%2FConfigTell%2CConfigTell%2CConfigTell%3Fed%3D2560&security=none&encryption=none&host=www.Yjc.ir&type=ws#IR🇮🇷
 vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?host=3h-unitedstates1.09vpn.com&path=%2Fvless%2F&security=none&sni=3h-unitedstates1.09vpn.com&type=ws#US
+vless://036fdabc-3430-4cee-9ad5-edff5fcc50e8@yas.ertebatgoostar.ir:80?path=/&security=none&encryption=none&type=ws#@V2rayNPVTConfig
 vless://ee01027e-e413-575a-8a5f-ba8ba569eb8b@151.101.128.223:80?security=none&sni=faculty.ucdavis.edu&type=ws&host=tg.ELiV2RaY.ir&path=%2F--%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY%3Fed%3D2560&fp=qq#US🇺🇸
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.24.248.85:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch:
 vless://qeshmserver@151.101.3.8:80?type=xhttp&mode=auto&host=qeshmserverfree.global.ssl.fastly.net&security=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40qeshmserver%20%231%20%5Bfast%5D
