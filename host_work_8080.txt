@@ -17,6 +17,7 @@ vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.57:80?mode=gun&security
 vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.16.25.21:80?encryption=none&security=none&type=ws&host=round-truth-4e97-ppal03.vegasow726.workers.dev&path=/?ed=2560#🇺🇸Ch:
 vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.24.192.51:80?encryption=none&security=none&type=ws&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&path=/?ed=2560#🙃Tel:@pPal03🙃Join🙃
 vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.16.132.136:80?encryption=none&security=none&type=ws&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&path=/?ed=2560#🙃Tel:@pPal03🙃Join🙃
+vless://9bb76a75-7ba1-4687-810e-b4dafa9948d7@inexall.cloudvipgamefall.ir:8080?security=tls&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=newnexip1.nexvpnfun.com#@Shh_Proxy-New³
 vless://6e1606a7-6206-46ee-b787-7fbb73ae19c9@He.mamad.web.tr:8080?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=tgju.org&fp=chrome&pbk=u6Z9_h_V6_2iMR0bs49_3TEBwkn2EAkxn3qmdNfhlHU&sid=2e232b8ced76afc8#🇩🇪DE-🚀@VPNine1
 vless://b69b43d1-091d-4d7c-90b2-7a8bbad9d6a9@188.114.97.6:8080?encryption=none&host=BItter-CreDIT-61b8.b76EbA0aBb.wORkerS.dEv&path=%2FeyJqdW5rIjoiY0U2T212Y21yeEhUZHRKYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20234354
 vless://MiMiTDL@167.235.238.144:80?path=/MiMiTDL&security=none&encryption=mlkem768x25519plus.native.0rtt.GlIc2LFlqBQ3itRnw8zoo3tfD7MSknWWmmLVDdr88jE&host=dynu.com&type=httpupgrade#@tootffarangi🍓-1
@@ -43,6 +44,7 @@ vless://ee01027e-e413-575a-8a5f-ba8ba569eb8b@151.101.192.223:80?sni=faculty.ucda
 vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.24.140.39:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#🥸Tel:
 vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@188.114.97.6:8080?encryption=none&host=refighehosein.salamdadash123.workers.dev&path=/&sni=refighehosein.salamdadash123.workers.dev&type=ws#🇨🇦
 vless://6e1606a7-6206-46ee-b787-7fbb73ae19c9@Ge5.mamad.web.tr:80?encryption=mlkem768x25519plus.native.0rtt.8CuTRZYxVTZx65YZm9I5zA3yjBNt_-CmZMRYdsie5jU&security=none&type=tcp&headerType=http&path=/api/v1/stream#🇩🇪DE-🚀@VPNine1
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#TEL;Father_vpn
 vless://3e2c2cb9-83b3-4b8c-91d5-73015490df0d@speedtest.net:80?path=%2FConfigTell%2CConfigTell%2CConfigTell%3Fed%3D2560&security=none&encryption=none&host=www.Yjc.ir&type=ws#IR🇮🇷
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfj7TigI3imKDvuI8iLCJhZGQiOiIxNTIuNjcuOC4yMDUiLCJwb3J0IjoiODAiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0
 vless://ee01027e-e413-575a-8a5f-ba8ba569eb8b@151.101.128.223:80?security=none&sni=faculty.ucdavis.edu&type=ws&host=tg.ELiV2RaY.ir&path=%2F--%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY----%40ELiV2RAY%3Fed%3D2560&fp=qq#US🇺🇸
