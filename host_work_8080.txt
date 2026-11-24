@@ -83,6 +83,7 @@ vless://d4e672e0-bc04-45c1-b710-df097fa41d23@104.24.219.162:80?encryption=none&s
 vless://94b0cde3-a305-4d89-a192-575339220c7f@104.16.233.169:80?encryption=none&security=none&type=ws&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=/?ed=2560#🔴⚪️🔵Ch:
 vless://9ce32242-557a-4d18-864d-c9c385b3dfa4@support.zoom.us:80?security=none&type=ws&path=%2F&host=matrix.learnpodedu.com&sni=support.zoom.us#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://InternetAzadRobot@151.101.1.57:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=tignaltofan.global.ssl.fastly.net&type=xhttp#@brayirani
+vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@38.107.232.36:80?path=/vless/&security=none&encryption=none&type=ws#🇺🇸
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?type=ws&path=%2Fvless%2F#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://Telegram-VPNCUSTOMIZE-@151.101.1.6:80?path=/%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE%3Fed%3D2560&security=auto&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&fp=randomized&type=ws&sni=hajlab.ucdavis.edu#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40iranvipnet%20%234%20%5Bfast%5D
 vless://c762af05-2e92-4133-bc30-8cf45dd40a28@suh.cryptofront.uk:80?security=none&type=ws&path=%2F&host=suh.cryptofront.uk#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
