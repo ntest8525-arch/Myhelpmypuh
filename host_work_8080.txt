@@ -44,6 +44,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTAiLCJhZGQiOiJuaW5qYS5qYWhhbmF0bGFzLnRvcCIs
 vless://31146a3a-3b5f-478c-bf71-f8ae3bca430b@www.speedtest.net:80?encryption=none&headerType=none&type=ws&path=/@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On+,+@Config_On&host=ok-config-10.4zkaban.xyz#🇩🇪
 vless://qeshmserver@151.101.3.8:80?type=xhttp&mode=auto&host=qeshmserverfree.global.ssl.fastly.net&security=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40qeshmserver%20%231%20%5Bfast%5D
 vless://03d25a8c-2d35-5e37-b689-95cc627ef40f@185.146.173.32:80?type=ws&encryption=none&host=www.crypto.com.joinTelegram.ELiV2ry.com.be2.vless.Sitespeedtest.net.&path=%2FJoinTelegram-%40ELiV2ry-%40ELiV2ry-%3Fed%3D2048#BE🇧🇪
+vless://FastKey_446172@89.125.136.56:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=api#ᴛᴇʟᴇɢʀᴀᴍ
 vless://989f3b5d-705e-4c75-99bd-b41be4d146cd@104.18.14.19:8080?type=ws&host=0103.x8r4itwg.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩
 vless://20cf8a2b-e301-4240-9c03-20883249a287@104.16.209.187:80?encryption=none&security=none&type=ws&host=divine-hall-8adb-ppal03.niyabi6636.workers.dev&path=/?ed=2560#
 vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.16.144.131:80?encryption=none&security=none&type=ws&host=muddy-sun-f05e-ppal03.nakojof452.workers.dev&path=/?ed=2560#🧔🏻Tel:
